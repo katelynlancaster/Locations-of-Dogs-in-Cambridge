@@ -1,0 +1,1278 @@
+Dog_Name,Dog_Breed,Location_masked,Latitude_masked,Longitude_masked,Neighborhood
+Shula,Cockapoo,,42.38630,-71.11970,Baldwin
+SMOKEY,Beagle,,42.36590,-71.09850,The Port
+Josephine,Terrier mix,,42.36910,-71.10410,Mid-Cambridge
+Sadie,Jack Russell Terrier,,42.37660,-71.12510,West Cambridge
+Toaster,Goldendoodle,,42.36330,-71.10260,The Port
+Jasper,Black and Tan Coonhound,,42.39690,-71.12950,North Cambridge
+jake,dalmation,,42.38300,-71.13210,Neighborhood Nine
+Olive,Australian Shepherd,,42.38370,-71.12340,Neighborhood Nine
+Tifa,Australian Shepherd,,42.38480,-71.12410,Neighborhood Nine
+Katie,Mixed Breed,,42.39380,-71.11960,North Cambridge
+NORBERT,Australian Terrier,,42.38900,-71.13800,Neighborhood Nine
+HOMER,Labrador Retriever Mix,,42.38330,-71.13050,Neighborhood Nine
+Athena,Mixed Breed,,42.38040,-71.12300,Neighborhood Nine
+Rusty,American Pit Bull Terrier,,42.37030,-71.10770,Mid-Cambridge
+Lucy,Labrador Retriever,,42.39010,-71.12070,North Cambridge
+Jake,Mixed Breed,,42.37350,-71.10870,Mid-Cambridge
+Huckleberry (Huck),Mixed Breed,,42.38410,-71.12290,Neighborhood Nine
+Cleo,West Highland terrior,,42.37900,-71.12380,Neighborhood Nine
+Cora,Mixed Breed,,42.37340,-71.12300,West Cambridge
+Lego,Mixed Breed,,42.38400,-71.13960,West Cambridge
+Oakie,Goldendoodle,,42.38760,-71.12380,Neighborhood Nine
+Oscar,Irish Water Spaniel,,42.39010,-71.11910,Neighborhood Nine
+Mochi,Labradoodle,,42.36960,-71.10620,Mid-Cambridge
+Moby,Poodle,,42.38820,-71.13250,Neighborhood Nine
+Rosie,Mixed Breed,,42.37570,-71.13630,West Cambridge
+Sally,Mixed Breed,,42.37230,-71.12470,West Cambridge
+Marlo,Shepard / Lab,,42.36960,-71.10120,Mid-Cambridge
+Frances,Cavapoo,,42.35550,-71.10470,Cambridgeport
+Kingsley,Mixed Breed,,42.38470,-71.13330,Neighborhood Nine
+BIB,Cockerpoo,,42.37910,-71.10970,Baldwin
+Emma,Mixed Breed,,42.38360,-71.13140,West Cambridge
+Beau,Labrador Retriever,,42.38620,-71.13810,Neighborhood Nine
+Ewok Kelebek,Papillon,,42.38130,-71.14880,Strawberry Hill
+Rufus,Poodle,,42.37460,-71.13390,West Cambridge
+Ari,Golden Retriever,,42.38350,-71.12390,Neighborhood Nine
+Bisou,Standard Poodle,,42.37560,-71.14040,West Cambridge
+Ellie,Lab/Pit,,42.37070,-71.10400,Mid-Cambridge
+Ruby,Boxer X,,42.38420,-71.14090,West Cambridge
+Oliver Cuyama Albano,Maltese,,42.38230,-71.12400,Neighborhood Nine
+ZIGGY,Golden Doodle,,42.39680,-71.12840,North Cambridge
+Pringle,Cocker Spaniel Mix,,42.37540,-71.08110,East Cambridge
+Banner,Pembroke Welsh Corgi,,42.36060,-71.09880,Cambridgeport
+Leckie,Great Dane,,42.38170,-71.13650,West Cambridge
+Luna,Mixed Breed,,42.39250,-71.13000,North Cambridge
+Charley,Mixed Breed,,42.38190,-71.11800,Baldwin
+Kristianna,Pomeranian Mix,,42.37060,-71.10040,Wellington-Harrington
+LOLA,Labrador Retriever,,42.37560,-71.14560,West Cambridge
+Margaret,Australian Shepherd,,42.37530,-71.07670,East Cambridge
+PHOEBE,Schipperke,,42.38220,-71.13630,West Cambridge
+Ben,Mixed Breed,,42.39380,-71.12170,North Cambridge
+BONNIE,Cockerpoo,,42.39630,-71.13440,North Cambridge
+Braeley,Belgian Tervuren,,42.37770,-71.14320,West Cambridge
+Ella,Poodle,,42.38320,-71.15690,Strawberry Hill
+Jaxx,Doodle,,42.37860,-71.10820,Mid-Cambridge
+Louie,Poodle,,42.36970,-71.11120,Mid-Cambridge
+Kiki,Labrador Retriever,,42.38930,-71.13730,Neighborhood Nine
+Charley,Mixed Breed,,42.38210,-71.11640,Baldwin
+Maggie,Mixed Breed,,42.36900,-71.07940,East Cambridge
+Clementine,Mixed Breed,,42.36690,-71.10680,Riverside
+Delilah,Mutt,,42.37040,-71.07800,East Cambridge
+Truffle,Siberian Husky,,42.38960,-71.13440,Neighborhood Nine
+Sadie,Cavapoo,,42.36680,-71.10200,Mid-Cambridge
+Cooper,Cairn Terrier,,42.38110,-71.12530,Neighborhood Nine
+Ace,Patterdale Terrior,,42.36050,-71.08840,Area 2/MIT
+Jillian,Poodle,,42.36170,-71.11110,Riverside
+LOUIS,"Dachshund, Wirehair",,42.36990,-71.07810,East Cambridge
+Maisy,Cockapoo,,42.37960,-71.14490,West Cambridge
+Darwin,Mutt,,42.38120,-71.15420,Strawberry Hill
+Ziggy,Labradoodle,,42.38050,-71.13990,West Cambridge
+Tucker,Mixed Breed,,42.38690,-71.12770,Neighborhood Nine
+Enzo,Mixed Breed,,42.36450,-71.10540,Cambridgeport
+Moose,Bernese Mountain Dog,,42.37590,-71.15330,Strawberry Hill
+Henry,Labradoodle,,42.37710,-71.11070,Baldwin
+Sawyer,Cavalier King Charles Spaniel,,42.38480,-71.12260,Neighborhood Nine
+Abby,Mixed Breed,,42.37700,-71.15420,Strawberry Hill
+Jacki,Mixed Breed,,42.39740,-71.12870,North Cambridge
+Kuma,Shiba Inu,,42.37380,-71.09690,Wellington-Harrington
+Marusiya,Borzoi,,42.38250,-71.12670,West Cambridge
+SKYE,Irish Wolfhould,,42.36780,-71.08400,East Cambridge
+Sibley,LABRADOODLE,,42.38760,-71.12670,Neighborhood Nine
+Trixie,Flat-Coated Retriever,,42.38110,-71.12390,Neighborhood Nine
+Ulla,Mixed Breed,,42.36780,-71.09690,Wellington-Harrington
+Macchi,Goldendoodle,,42.37180,-71.07330,East Cambridge
+GEORGE,Yorkie  Poo,,42.37130,-71.09550,Wellington-Harrington
+Lentil,Newfoundland,,42.37660,-71.14070,West Cambridge
+EVIE,Tibetan Terrier,,42.38380,-71.13740,West Cambridge
+Millie,Mixed Breed,,42.37390,-71.10740,Mid-Cambridge
+Joseph,Labradoodle,,42.37750,-71.14540,West Cambridge
+Millie,Mixed Breed,,42.37450,-71.08270,East Cambridge
+Ryder,Standard Poodle,,42.37840,-71.13580,West Cambridge
+Tasha,Labrador Retiever,,42.37440,-71.13820,West Cambridge
+Pepper,Mixed Breed,,42.36900,-71.11150,Riverside
+Miss Merrimack /“Merry”,Cairn Terrier,,42.39480,-71.12420,North Cambridge
+Thor,Boxer,,42.36530,-71.08160,East Cambridge
+WILLIE,Dachshund,,42.36390,-71.11030,Cambridgeport
+Boo,Mixed Breed,,42.38860,-71.11630,Baldwin
+Maple,Havanese,,42.38930,-71.13000,North Cambridge
+Hazel,Pembroke Welsh Corgi,,42.36500,-71.09940,The Port
+Emerald,Pocket Beagle,,42.37930,-71.12210,Neighborhood Nine
+WINDSOR,Cocker Spaniel,,42.37160,-71.08350,East Cambridge
+Gaia Grace LaRoche,Mixed Breed,,42.38350,-71.13700,Neighborhood Nine
+Willow,Mixed Breed,,42.36910,-71.10750,Mid-Cambridge
+Zeus,Mixed Breed,,42.40100,-71.15100,North Cambridge
+Gracie,Mixed Breed,,42.38240,-71.14080,West Cambridge
+Sophie (aka Daisy Mae),Mixed Breed,,42.39450,-71.13180,North Cambridge
+Elinor Bruff Clarke-Shady,Mixed Breed,,42.38180,-71.11790,Baldwin
+Lady,Mini Bernedoodle,,42.37450,-71.10420,Mid-Cambridge
+Buka,Mixed Breed,,42.35710,-71.11350,Cambridgeport
+Summit Blue,Mixed Breed,,42.36960,-71.10840,Mid-Cambridge
+Pepper,Mixed Breed,,42.37050,-71.08360,East Cambridge
+Sunny,Labrador Retriever,,42.39760,-71.13310,North Cambridge
+SUNNY,Welsh Terrier,,42.38600,-71.12770,Neighborhood Nine
+Chance Peanut Butter,Mixed Breed,,42.37830,-71.14190,West Cambridge
+Leo,Cockapoo,,42.37020,-71.13960,West Cambridge
+Zia,Goldendoodle,,42.38130,-71.13070,Neighborhood Nine
+SMUDGE,HAVANESE,,42.39800,-71.14830,North Cambridge
+Arien,Terrier Mix,,42.36860,-71.11090,Riverside
+Sugar Pie,Mixed Breed,,42.37610,-71.15040,Strawberry Hill
+Cosimo,Weimaraner,,42.36030,-71.10240,Cambridgeport
+FERGUS,TERRIER X,,42.37450,-71.08470,East Cambridge
+Edie,Polish Lowland Sheepdog,,42.37380,-71.12570,West Cambridge
+Callie,Beagle  Mix,,42.36490,-71.11270,Riverside
+Coco,LABRADOODLE,,42.36240,-71.10100,Cambridgeport
+LuLu,Poodle,,42.39010,-71.12590,North Cambridge
+Flanders,Mixed Breed,,42.37340,-71.08540,East Cambridge
+Willow,Bernese Mountain Dog,,42.39490,-71.14020,North Cambridge
+Bowie,VIZSLA,,42.39750,-71.13140,North Cambridge
+Lucy,Poodle,,42.37170,-71.10920,Mid-Cambridge
+Butter,Retriever Mix,,42.36960,-71.10510,Mid-Cambridge
+Wood-ear,Weimaraner,,42.36420,-71.11320,Cambridgeport
+HOMER,Cockerpoo,,42.38120,-71.12680,West Cambridge
+Emma,Lakeland Terrier,,42.37470,-71.10660,Mid-Cambridge
+Shelby,Polish Lowland Sheepdog,,42.37280,-71.12170,West Cambridge
+Milo,Golden Retriever,,42.38380,-71.11950,Neighborhood Nine
+Chica Maria,Labrador Retriever,,42.35750,-71.10940,Cambridgeport
+Koda,Mixed Breed,,42.36880,-71.08150,East Cambridge
+Messi,mixed,,42.37410,-71.10270,Mid-Cambridge
+Wee Geordie,Cairn Terr,,42.37460,-71.10800,Mid-Cambridge
+JOLENE,Samoyed,,42.38090,-71.14350,West Cambridge
+Bob,MINIATURE POODLE,,42.37080,-71.09800,The Port
+Roxy,Mixed Breed,,42.37030,-71.10760,Riverside
+Puddles,Labrador Retriever  Mix,,42.37050,-71.08970,Wellington-Harrington
+Piper,wippet,,42.38230,-71.15100,Strawberry Hill
+MAXIMUS,LABRADOR RETREIVER,,42.36550,-71.11020,Riverside
+Pickles Rover Wright-Katz,Mixed Breed,,42.36230,-71.10880,Cambridgeport
+WINSTON,Mixed Breed,,42.37180,-71.08530,East Cambridge
+Ana,Great Pyrenees,,42.37700,-71.13930,West Cambridge
+Moz Warring,Mixed Breed,,42.37960,-71.10730,Mid-Cambridge
+Trudy,Goldendoodle,,42.36530,-71.10930,Riverside
+PIKA,Golden Retriever,,42.37630,-71.11010,Baldwin
+Minnie,SCOTTISH  TERRIER,,42.37750,-71.11030,Mid-Cambridge
+FIONA,Mixed Breed,,42.36110,-71.10820,Cambridgeport
+Tucker,ShihTzu,,42.37480,-71.09360,Wellington-Harrington
+Toby,Mixed Breed,,42.36670,-71.09520,Wellington-Harrington
+Amity,Portuguese Water Dog,,42.38930,-71.12460,North Cambridge
+FERGUS,Labradoddle,,42.38230,-71.13810,West Cambridge
+Bernese Sanders,Bernese Mountain Dog,,42.39070,-71.13060,North Cambridge
+Emmy,Duck Tolling Retriever,,42.39010,-71.15540,Cambridge Highlands
+STANLEY,Hound X,,42.36650,-71.11340,Riverside
+Rover,Labrador Retriever,,42.37070,-71.10740,Mid-Cambridge
+Lucy,Mixed Breed,,42.39670,-71.13120,North Cambridge
+Rosco,Mixed Breed,,42.35540,-71.10540,Cambridgeport
+Laika,Mixed Breed,,42.38560,-71.13290,Neighborhood Nine
+Maisie Bowden,Mixed Breed,,42.38700,-71.12970,Neighborhood Nine
+Stella Sculley,Border Collie Mix,,42.38760,-71.11960,Neighborhood Nine
+Peaches,Mixed Breed,,42.36140,-71.10870,Cambridgeport
+Obi,Goldendoodle,,42.35820,-71.11320,Cambridgeport
+Jasper,Golden Retriever,,42.36870,-71.08340,East Cambridge
+Tess,Mixed Breed,,42.38670,-71.12920,Neighborhood Nine
+Mickey,Bernedoodle,,42.38220,-71.11550,Baldwin
+Vooche,Siberian Husky,,42.39080,-71.12680,North Cambridge
+Ethan,Labrador Retriever,,42.37810,-71.14480,West Cambridge
+Tootsie,Mixed Breed,,42.39420,-71.12900,North Cambridge
+Peyton,Mixed Breed,,42.39110,-71.14810,Cambridge Highlands
+Pesto,Mixed Breed,,42.36760,-71.10910,Riverside
+Cella,Mixed Breed,,42.37590,-71.09070,Wellington-Harrington
+Penny,beagle,,42.37090,-71.11620,Mid-Cambridge
+Reno,Australian Shepherd,,42.39280,-71.13980,North Cambridge
+Bunny,Toy Poodle,,42.37920,-71.13980,West Cambridge
+Coriander,Cavalier King Charles Spaniel,,42.37170,-71.11490,Riverside
+ROSIE,Shih Tzu,,42.37290,-71.10690,Mid-Cambridge
+Axel Mowatt,Huskey,,42.36760,-71.10760,Mid-Cambridge
+Belle,Mixed Breed,,42.38270,-71.12090,Neighborhood Nine
+EMMA,Boxer,,42.35370,-71.10680,Cambridgeport
+Huriya,Mixed Breed,,42.38290,-71.13420,West Cambridge
+Scout,Beagle,,42.37330,-71.12890,West Cambridge
+Jangchub,Mixed Breed,,42.36710,-71.10520,Mid-Cambridge
+Nola,Mixed Breed,,42.37470,-71.10860,Mid-Cambridge
+Finn,Bernese Mountain Dog,,42.37650,-71.13550,West Cambridge
+Clementine,Labrador Retriever,,42.38370,-71.11680,Baldwin
+LUA,Labradoddle,,42.36910,-71.08300,East Cambridge
+Pepper,Mutt,,42.39040,-71.12320,Neighborhood Nine
+Nola,Mixed Breed,,42.36710,-71.10480,Mid-Cambridge
+Pippi,West Highland White Terrier,,42.37010,-71.10930,Mid-Cambridge
+Luna,LABRADOODLE,,42.38490,-71.13690,Neighborhood Nine
+Charlie Bear,Yorkie mix,,42.37390,-71.08090,East Cambridge
+Lincoln,Terrier Mix,,42.37470,-71.10210,Mid-Cambridge
+Rocky,Maltipoo,,42.38900,-71.12380,North Cambridge
+Maximus,GSD/Husky,,42.37760,-71.12730,West Cambridge
+STELLA,SCHNOODLE,,42.37930,-71.13850,West Cambridge
+Madeleine de Puddles,POODLE MIX,,42.39830,-71.13770,North Cambridge
+Waffles,Labradoodle,,42.37770,-71.12040,Neighborhood Nine
+Noodle,Mixed Breed,,42.38460,-71.12700,Neighborhood Nine
+MUFFIN,Yorkie  Poo,,42.37360,-71.13290,West Cambridge
+Leo,Sato,,42.39660,-71.12890,North Cambridge
+Chego,Shiba Inu,,42.40030,-71.13710,North Cambridge
+Ana,Mixed Breed,,42.36510,-71.10490,Cambridgeport
+Penny,Mixed Breed,,42.38610,-71.12030,Neighborhood Nine
+Penny,Mixed Breed,,42.38490,-71.11950,Neighborhood Nine
+Kiva,Cockapoo,,42.35460,-71.10460,Cambridgeport
+Willow,Goldendoodle,,42.35990,-71.11040,Cambridgeport
+Ziggy,Mixed Breed,,42.37040,-71.13960,West Cambridge
+Mars,ALASKAN MALAMUTE,,42.37740,-71.13770,West Cambridge
+Winnie,Cairn Terrier,,42.38030,-71.13760,West Cambridge
+Chloe,Mixed Breed,,42.36460,-71.07690,East Cambridge
+Mika,Mixed Breed,,42.37600,-71.12450,Neighborhood Nine
+Hopper,Cavapoo,,42.36730,-71.08610,East Cambridge
+Max,Poodle,,42.38310,-71.11910,Baldwin
+Bella,Mixed Breed,,42.36800,-71.08410,East Cambridge
+Sam,Poodle,,42.38630,-71.12120,Neighborhood Nine
+Sadie,Mixed Breed,,42.38070,-71.11090,Baldwin
+Whizzby,Whippet,,42.37970,-71.14190,West Cambridge
+Humphrey,Pug,,42.38610,-71.13810,Neighborhood Nine
+Remy,Mixed Breed,,42.35700,-71.10720,Cambridgeport
+Teddy ,Labradoodle,,42.37560,-71.10840,Mid-Cambridge
+Bobbie,Dachshund (Standard),,42.36850,-71.07960,East Cambridge
+STITCH,English Bulldog,,42.38500,-71.11860,Neighborhood Nine
+Gus,Goldendoodle,,42.38150,-71.14270,West Cambridge
+Roscoe ,Mixed Breed,,42.39640,-71.13420,North Cambridge
+Birdie,Lab,,42.36960,-71.09690,The Port
+Pia,Morkie,,42.37450,-71.10680,Mid-Cambridge
+Panda,Mixed Breed,,42.37650,-71.12470,Neighborhood Nine
+Toby,Labradoodle,,42.38570,-71.12520,Neighborhood Nine
+Dou Bao,Havanese,,42.37530,-71.10540,Mid-Cambridge
+Moxie,Dachshund,,42.37460,-71.08290,East Cambridge
+Riley,Golden Retriever,,42.38350,-71.13670,West Cambridge
+Pocky,Mixed Breed,,42.36810,-71.09710,The Port
+Jarvis,French Bulldog,,42.38030,-71.13870,West Cambridge
+Darwin,Irish Setter,,42.37600,-71.09000,Wellington-Harrington
+Mila,Mixed Breed,,42.37030,-71.09400,Wellington-Harrington
+Hayden,Havanese,,42.38450,-71.11280,Baldwin
+Willow,labradoodle,,42.37840,-71.13930,West Cambridge
+Persy,Labradoodle,,42.39770,-71.12900,North Cambridge
+Azu,Yorkipoo,,42.38270,-71.14100,West Cambridge
+Annie,Australian Shepherd,,42.38430,-71.13470,West Cambridge
+Griffey Maslan,Labradoodle,,42.38820,-71.13090,Neighborhood Nine
+Samba,Mixed Breed,,42.39110,-71.12080,North Cambridge
+Tonks,English Springer Spaniel,,42.38530,-71.12740,Neighborhood Nine
+Finnegan,Carolina Dog,,42.38850,-71.12020,Neighborhood Nine
+Snoopy ,Mixed Breed,,42.37720,-71.14880,West Cambridge
+Luna,French Bulldog,,42.37430,-71.14740,West Cambridge
+Cochiti,Tibetan Terrier,,42.37840,-71.14340,West Cambridge
+FRED,POODLE,,42.37700,-71.14690,Strawberry Hill
+Wally,Morkie,,42.37890,-71.15550,Strawberry Hill
+Butch,Mixed Breed,,42.39590,-71.12990,North Cambridge
+Goldie,Labrador retriever,,42.39490,-71.14020,North Cambridge
+Pongo,Mixed Breed,,42.36090,-71.11020,Cambridgeport
+Toffee,Maltipoo,,42.38720,-71.13050,Neighborhood Nine
+Koda,Siberian Husky,,42.37240,-71.07210,East Cambridge
+Milton,Goldendoodle,,42.36590,-71.08260,East Cambridge
+Korra,Mixed Breed,,42.36880,-71.08480,East Cambridge
+Noodles,Mixed Breed,,42.37590,-71.11140,Mid-Cambridge
+Williston “Willie” James Oldham,Cavalier King Charles Spaniel,,42.38150,-71.13160,West Cambridge
+Rosie Flynn,Goldendoodle,,42.38330,-71.14280,West Cambridge
+Zorro,Mixed Breed,,42.39230,-71.15300,Cambridge Highlands
+Maizey,Mixed Breed,,42.38520,-71.13060,Neighborhood Nine
+Koba,American Staffordshire Terrier,,42.36900,-71.10400,The Port
+MINNIE,Mix,,42.35840,-71.10500,Cambridgeport
+MANNIE,BEAGLE,,42.37510,-71.12390,West Cambridge
+Bibi,Poodle/Australian Shephard Mix,,42.38490,-71.12370,Neighborhood Nine
+Jack,Mixed Breed,,42.37880,-71.12270,Neighborhood Nine
+Charlie,Golden Retriever,,42.38540,-71.13210,Neighborhood Nine
+Disco,Mixed Breed,,42.37070,-71.10530,Mid-Cambridge
+Chestnut LeSoltis,Bernedoodle,,42.39880,-71.13430,North Cambridge
+Buddy,Mixed Breed,,42.35580,-71.10570,Cambridgeport
+Baxter,Mixed Breed,,42.38380,-71.12180,Neighborhood Nine
+Piper,Mixed Breed,,42.38550,-71.12800,Neighborhood Nine
+Moxie,Mountain Cur Mix,,42.37450,-71.12640,West Cambridge
+Pedro,Miniature Schnauzer,,42.38850,-71.12800,Neighborhood Nine
+Roxie,Labrador Retriever,,42.39220,-71.12630,North Cambridge
+Juno,Golden Retriever,,42.37250,-71.09640,Wellington-Harrington
+Pippy ,Mixed Breed,,42.39750,-71.12770,North Cambridge
+Bear,Pomeranian,,42.38150,-71.13790,West Cambridge
+Franny,Shep Mix,,42.38880,-71.11900,Neighborhood Nine
+Luna,Mixed Breed,,42.37010,-71.11230,Riverside
+Ruru,Mixed Breed,,42.38760,-71.12580,Neighborhood Nine
+Grace,Mixed Breed,,42.38340,-71.11180,Baldwin
+Brillo,Dachshund,,42.37020,-71.11810,Riverside
+Rigby,Mixed Breed,,42.37090,-71.11290,Riverside
+LATTE,Tea Cup Poodle,,42.37200,-71.07650,East Cambridge
+Layla,Labradoodle,,42.39550,-71.14540,North Cambridge
+Maple,Goldendoodle,,42.39890,-71.13140,North Cambridge
+Clio,Mixed Breed,,42.38000,-71.13290,West Cambridge
+Lucy,Mixed Breed,,42.39610,-71.13820,North Cambridge
+Pippi,Welsh Terrier,,42.37000,-71.08400,East Cambridge
+Jasper,Mixed Breed,,42.39620,-71.13060,North Cambridge
+Bingley,Labrador Retriever,,42.38380,-71.12900,Neighborhood Nine
+Kaito Nakajima,Portugese Water Dog,,42.35470,-71.10250,Area 2/MIT
+Julius,Shiba Inu,,42.37520,-71.11520,Mid-Cambridge
+Trixie,Labradoodle,,42.35680,-71.10740,Cambridgeport
+Cooper,Mixed Breed,,42.39290,-71.14600,North Cambridge
+Jacob,HAVANESE,,42.39250,-71.13400,North Cambridge
+Duncan,Lab Mix,,42.36630,-71.08230,East Cambridge
+Emi,Mixed Breed,,42.38040,-71.12240,Neighborhood Nine
+ZEKE,Poodle,,42.38390,-71.11570,Baldwin
+Mika,Mixed,,42.36700,-71.08450,East Cambridge
+Franklin,Puggle,,42.37210,-71.09650,The Port
+MAGNOLIA,TERRIER X,,42.39560,-71.13020,North Cambridge
+Queen Sheba,Poodle,,42.39550,-71.13410,North Cambridge
+Charlie,Mixed Breed,,42.36980,-71.10120,The Port
+Yoshi,Goldendoodle,,42.39280,-71.12660,North Cambridge
+COCO,German Shorthaired Pointer,,42.39910,-71.13250,North Cambridge
+Otto,Dachshund,,42.36690,-71.10990,Riverside
+Cecil,Mixed Breed,,42.39640,-71.13510,North Cambridge
+Bodie,Goldendoodle,,42.38110,-71.12280,Neighborhood Nine
+ZIGGY,MINIATURE  POODLE,,42.37920,-71.14240,West Cambridge
+Mitzie,Austrailian Labradoodle,,42.40370,-71.13580,North Cambridge
+Jackson Wyatt,German Short Haired Pointer,,42.38750,-71.13300,Neighborhood Nine
+Annie,Mixed Breed,,42.36170,-71.11280,Cambridgeport
+Westie,Golden Retriever,,42.38320,-71.12660,Neighborhood Nine
+Mack,Cockapoo,,42.35540,-71.10900,Cambridgeport
+Bucky aka Buckminster,Poodle,,42.38130,-71.13450,West Cambridge
+georgia,Labradoodle,,42.37590,-71.12050,Neighborhood Nine
+Maisy,Golden Retriever,,42.37060,-71.09540,The Port
+ZOEY,Golden Doodle,,42.38860,-71.13790,Neighborhood Nine
+Ranfo,Samoyed,,42.38740,-71.12770,Neighborhood Nine
+Teagan,Mixed Breed,,42.38200,-71.11820,Baldwin
+Zumi,Mixed Breed,,42.36870,-71.07570,East Cambridge
+Roxy,Mixed Breed,,42.36440,-71.07470,East Cambridge
+KILEY,Wheaton Terrier,,42.37900,-71.12250,Neighborhood Nine
+Penny Fisher,Bernedoodle,,42.38090,-71.12110,Neighborhood Nine
+Maximus,Golden Retreiver,,42.39720,-71.13700,North Cambridge
+Walden,Mixed Breed,,42.35410,-71.11290,Cambridgeport
+Greta,Soft Coated Wheaten Terrier,,42.38260,-71.11340,Baldwin
+Whitney,Lab Coonhound Mix,,42.36350,-71.10560,Cambridgeport
+Riley Soroca,Golden Retriever,,42.37590,-71.14880,Strawberry Hill
+Rosie,Labrador Retriever,,42.37100,-71.10380,Mid-Cambridge
+Maga,Shih Tzu Mix,,42.37010,-71.08090,East Cambridge
+Nairobi,Rhodesian Ridgeback,,42.39490,-71.14020,North Cambridge
+Clarence,Mixed Breed,,42.39370,-71.15960,Cambridge Highlands
+Ozzy,Mixed Breed,,42.35370,-71.10560,Area 2/MIT
+Lola,mini shnauzer,,42.37510,-71.10330,Mid-Cambridge
+FARGO,MIXED,,42.38640,-71.12450,Neighborhood Nine
+ALLI,Australian  Shepherd X,,42.38090,-71.13850,West Cambridge
+Beau,French Bulldog,,42.39080,-71.14310,North Cambridge
+TAXI,Cocker Spaniel,,42.38140,-71.14930,Strawberry Hill
+Hank Aaron ,Mixed Breed,,42.37000,-71.09770,Wellington-Harrington
+Pippi,Mixed Breed,,42.36320,-71.09760,The Port
+griffin,Mixed Breed,,42.39010,-71.12650,Neighborhood Nine
+Odin,Bernedoodle,,42.40370,-71.13450,North Cambridge
+Pepper,Mixed Breed,,42.37220,-71.09250,Wellington-Harrington
+"David ""Bowie"" Alvarez-Stowe",Cocker Spaniel,,42.37640,-71.10540,Mid-Cambridge
+Lulu,Labrador Retriever,,42.38130,-71.13100,West Cambridge
+ELLIE MAE,Puggle,,42.37260,-71.10800,Mid-Cambridge
+MOXIE,Shih Tzu X,,42.38690,-71.13770,West Cambridge
+Friday,Mixed Breed,,42.39460,-71.13680,North Cambridge
+Scout,HAVANESE,,42.37670,-71.14090,West Cambridge
+Tula,Labrabor Retriever,,42.38640,-71.15720,Strawberry Hill
+Piper,Mixed Breed,,42.36590,-71.09050,Wellington-Harrington
+Lila,Border Terrier Mix,,42.38890,-71.12870,Neighborhood Nine
+Zoomer,Bernedoodle,,42.38150,-71.13250,West Cambridge
+Cali,Weimaraner,,42.39460,-71.12400,North Cambridge
+Miller,Border Collie,,42.35650,-71.10840,Cambridgeport
+Harry,Australian Terrier,,42.37580,-71.13080,West Cambridge
+BUDDY,Great Pyrenese X,,42.38700,-71.12730,Neighborhood Nine
+TATOO,Beagle X,,42.38080,-71.11600,Baldwin
+Ivy,Australian Shepherd,,42.37700,-71.12420,West Cambridge
+Bruno,lab  retreiver,,42.38500,-71.12750,Neighborhood Nine
+"Tasman (""Taz"")",Mixed Breed,,42.37430,-71.15120,Strawberry Hill
+Oscar,Newfoundland,,42.39020,-71.12760,Neighborhood Nine
+Mango,Labrador Retriever,,42.36870,-71.09770,The Port
+Luna Levitt,Goldendoodle,,42.37920,-71.15050,Strawberry Hill
+Niccolo,Dachshund,,42.37440,-71.14260,West Cambridge
+Rowna,Cairn Terrier,,42.37810,-71.10610,Mid-Cambridge
+Hobbs,Boxer,,42.35800,-71.10900,Cambridgeport
+Otter,Mixed Breed,,42.39260,-71.13680,North Cambridge
+Bessie,mixed,,42.37750,-71.14140,West Cambridge
+Duncan,English Bulldog,,42.38160,-71.13630,West Cambridge
+Pemi,Mixed Breed,,42.37490,-71.10200,Mid-Cambridge
+Cousy,Beagle,,42.36970,-71.07170,East Cambridge
+Dipper,YORKSHIRE TERRIER,,42.39410,-71.13640,North Cambridge
+Apapacho (Pacho) ,Mixed Breed,,42.37820,-71.12420,Neighborhood Nine
+Lemon,Dachshund,,42.39620,-71.15550,Cambridge Highlands
+Thalia,Labrador Retriever,,42.40260,-71.13030,North Cambridge
+Winnie,Mixed Breed,,42.39240,-71.12290,North Cambridge
+Sydney Salguero,Labraddoodle,,42.37460,-71.14990,Strawberry Hill
+Rex,Pembroke Welsh Corgi,,42.38590,-71.14080,West Cambridge
+Rosie,Goldendoodle,,42.36980,-71.08120,East Cambridge
+Taco,Mixed Breed,,42.36240,-71.10220,Cambridgeport
+Glitch,Australian Shepherd,,42.36610,-71.10760,Mid-Cambridge
+Olly (Oliver),Australian Shepherd,,42.35450,-71.10720,Cambridgeport
+Pepper,Mixed Breed,,42.39250,-71.13280,North Cambridge
+Indiana,Mixed Breed,,42.37070,-71.09980,Wellington-Harrington
+Poppy Klein,Bernese Mountain Dog,,42.38740,-71.13250,Neighborhood Nine
+Jax,German Shepard / Lab,,42.39530,-71.12970,North Cambridge
+Benny,Yorkshire  Terrier,,42.35980,-71.10510,Cambridgeport
+Mosey,Border Collie ,,42.39570,-71.14950,North Cambridge
+Romeo,POMERANIAN,,42.38310,-71.12010,Baldwin
+Tau,Mixed Breed,,42.39450,-71.13740,North Cambridge
+Ziggy Kobetis-Liang,BEAGLE,,42.36660,-71.10450,Mid-Cambridge
+Noble,Pit mix,,42.36480,-71.11420,Riverside
+Tucker,Mixed Breed,,42.37450,-71.10690,Mid-Cambridge
+Kafka,Shiba Inu,,42.39950,-71.13110,North Cambridge
+LuLu,Yorkipoo,,42.39570,-71.12960,North Cambridge
+Luka,Labrador Retriever,,42.38260,-71.15280,Strawberry Hill
+PARKER,Pointer X,,42.36580,-71.10680,Mid-Cambridge
+Mishka,Portuguese Water Dog,,42.38450,-71.13390,Neighborhood Nine
+Sengie,LABRADOODLE,,42.37980,-71.12950,West Cambridge
+ROSCO,PAPILLON,,42.38450,-71.12200,Neighborhood Nine
+LEONARD,Bichon Frise,,42.39850,-71.13200,North Cambridge
+CHUI,MASTIFF,,42.37190,-71.13960,West Cambridge
+Guava,Mixed Breed,,42.37460,-71.10700,Mid-Cambridge
+Mochi,West Highland White Terrier,,42.38800,-71.13180,Neighborhood Nine
+Bowie,LAB   MIX,,42.36410,-71.10170,The Port
+PANCHO,Mixed Breed,,42.38410,-71.11130,Baldwin
+Bailey,Golden Retriever,,42.38310,-71.12000,Neighborhood Nine
+Lucy,Terrier mix,,42.39310,-71.12070,North Cambridge
+Millie,Mixed Breed,,42.35960,-71.10930,Cambridgeport
+Blaze,Mixed Breed,,42.36150,-71.10880,Cambridgeport
+Margo,Terr.,,42.36450,-71.10420,Mid-Cambridge
+Prince,King Charles Cav Spaniel,,42.37730,-71.11910,Neighborhood Nine
+Walter,Bearded Collie,,42.38420,-71.13160,Neighborhood Nine
+Buckle,Portuguese Water Dog,,42.37730,-71.13740,West Cambridge
+ROMEO,MINIATURE SCHNAUZER,,42.37350,-71.09160,Wellington-Harrington
+Luna,Mixed Breed,,42.36440,-71.10620,Cambridgeport
+Benny,Yorkshire Terrier,,42.36220,-71.09470,The Port
+loulou,Labrador Retriever,,42.38180,-71.13530,West Cambridge
+Mango,Shiba Inu,,42.36570,-71.07500,East Cambridge
+Rudy,Mixed Breed,,42.38910,-71.12450,North Cambridge
+BELA,VIZSLA,,42.38760,-71.11980,Neighborhood Nine
+Ziggy,Golden Retriever,,42.37070,-71.10480,Mid-Cambridge
+Potomac,Border Collie mix,,42.37560,-71.12030,Neighborhood Nine
+LOLA,English Cocker Spaniel,,42.39400,-71.13130,North Cambridge
+RICHARD,Hound Mix,,42.37350,-71.14170,West Cambridge
+Sully,Goldendoodle,,42.38340,-71.13200,Neighborhood Nine
+Eevee,Pembroke Welsh Corgi,,42.39340,-71.14250,North Cambridge
+Hank,Weimaraner  Mix,,42.38010,-71.11600,Baldwin
+Juniper,Irish Setter,,42.37810,-71.14310,West Cambridge
+Chira,Chihuahua,,42.37990,-71.13690,West Cambridge
+Nellie,Pug,,42.39460,-71.13240,North Cambridge
+Roxy,Mixed Breed,,42.37580,-71.11430,Baldwin
+Roscoe Klein,Terrier Mix,,42.36160,-71.10970,Cambridgeport
+Haru,Papillon,,42.39040,-71.14800,Cambridge Highlands
+Brutus,Labrador Retriever Mix,,42.35710,-71.10870,Cambridgeport
+FINN,Beagle Mix,,42.39590,-71.13590,North Cambridge
+Arlo,Goldendoodle,,42.37850,-71.12650,West Cambridge
+WANGCHUK / CHUK,Shih Tzu,,42.37790,-71.13820,West Cambridge
+Lola,Dashund,,42.39590,-71.15880,Cambridge Highlands
+Indigo,Mixed Breed,,42.39680,-71.13720,North Cambridge
+Bentley,Silky Terrier,,42.35510,-71.10560,Cambridgeport
+Jack,Mixed Breed,,42.37060,-71.09730,The Port
+FRIDA,Labrador Retriever Mix,,42.38120,-71.14210,West Cambridge
+Olive,Cavalier King Charles Spaniel,,42.35950,-71.10440,Cambridgeport
+Sandy,CAIRN TERRIER,,42.37950,-71.12690,West Cambridge
+Murphy,Mixed Breed,,42.39040,-71.12220,North Cambridge
+MEADOW,AUSTRALIAN SHEPHERD/MINI,,42.37230,-71.15290,Strawberry Hill
+Jaden,australian Cattle dog,,42.39100,-71.13200,Neighborhood Nine
+Luna Tallon,Labradoodle,,42.39100,-71.11730,North Cambridge
+Tucker,Golden Retriever,,42.40180,-71.13390,North Cambridge
+MOLLY,German Shepherd,,42.36150,-71.10280,Cambridgeport
+Ferb,Mixed Breed,,42.39210,-71.12340,North Cambridge
+Bella,dachhund,,42.36650,-71.08360,East Cambridge
+Penelope,Goldendoodle,,42.37220,-71.07310,East Cambridge
+"Wellfleet ""Welly""",Labrador Retriever,,42.38580,-71.13020,Neighborhood Nine
+Joni,Mixed Breed,,42.39720,-71.13100,North Cambridge
+Sally Gifford,Labrador Retriever,,42.37540,-71.13680,West Cambridge
+Mister,Mixed Breed,,42.39040,-71.11950,North Cambridge
+Rufus,Australian Shephard,,42.35910,-71.10470,Cambridgeport
+Acadia,Labrador Retriever,,42.38760,-71.13620,West Cambridge
+Tandy,Australian Cattle Dog,,42.38750,-71.12760,Neighborhood Nine
+Luna,Mixed Breed,,42.39400,-71.13410,North Cambridge
+Luna,Australian Shepherd,,42.37170,-71.07560,East Cambridge
+Tiger Lily,Dalmatian,,42.38790,-71.11570,Baldwin
+Oakie,King Charles  Spaniel,,42.37820,-71.13540,West Cambridge
+Skip,Australian Cattle Dog,,42.36160,-71.10950,Riverside
+Lulu Haltom,Beagle,,42.37760,-71.13800,West Cambridge
+Charley,cockapoo,,42.38970,-71.12890,Neighborhood Nine
+Kya Ferber-Veeck,Goldendoodle,,42.36860,-71.10090,Mid-Cambridge
+Savannah,Mixed Breed,,42.36160,-71.11410,Cambridgeport
+Orla,Mixed Breed,,42.37630,-71.13670,West Cambridge
+Scout,German Shepherd Dog,,42.36510,-71.10350,Cambridgeport
+Annika,Alaskan Malamute,,42.37080,-71.09590,The Port
+Louie,Australian Cattle Dog,,42.36810,-71.10080,Mid-Cambridge
+Kima,Labrador Retriever  Mix,,42.37340,-71.10440,Mid-Cambridge
+Cedar,Australian shephard,,42.39450,-71.12770,North Cambridge
+Oliver,Poodle,,42.38130,-71.15170,Strawberry Hill
+Misha,German Shepherd Dog,,42.39020,-71.13180,North Cambridge
+Milo,Mixed Breed,,42.38350,-71.12360,Neighborhood Nine
+Sandy,Cocker Spaniel,,42.36960,-71.10720,Mid-Cambridge
+Tillie,Australian Shepherd,,42.36900,-71.08750,East Cambridge
+Paisley,Golden Retriever,,42.38960,-71.12700,Neighborhood Nine
+Rigby,Heeler X,,42.38370,-71.16120,Strawberry Hill
+Nalah,Cane Corso,,42.39200,-71.12820,North Cambridge
+Clem,Cattle Dog Mix,,42.36000,-71.10780,Cambridgeport
+Luna,Mixed Breed,,42.35490,-71.10680,Cambridgeport
+Luna Wednesday Bancroft,Austrailian Labradoodle,,42.37680,-71.14010,West Cambridge
+Lucy,Golden  Retriever,,42.39870,-71.13300,North Cambridge
+Cyon,Goldendoodle,,42.39200,-71.13070,North Cambridge
+Arlie,Shetland Sheepdog,,42.37710,-71.12640,West Cambridge
+Woody,Norfolk Terrier,,42.37270,-71.07240,East Cambridge
+Mia,Labrador Retriever,,42.39770,-71.12840,North Cambridge
+Buddy,Mixed Breed,,42.39070,-71.12010,North Cambridge
+luna,Australian Shepherd,,42.37030,-71.09240,Wellington-Harrington
+ADELAIDE,Labradoddle,,42.37720,-71.13130,West Cambridge
+HARRY,Yorkie  Poo,,42.36260,-71.09250,The Port
+Daphne,MINIATURE SCHNAUZER,,42.36140,-71.10760,Cambridgeport
+Cooper,Mixed Breed,,42.36410,-71.11510,Riverside
+Jazz,Pomeranian,,42.39450,-71.14710,Cambridge Highlands
+Kudu,Basenji,,42.39320,-71.14880,North Cambridge
+Walden,Golden Retriever,,42.37970,-71.14030,West Cambridge
+Yuki,Mixed breed,,42.39200,-71.12180,North Cambridge
+Julius,Doberman,,42.37350,-71.10360,Mid-Cambridge
+Albus Dumbledoodle,Goldendoodle,,42.39390,-71.13060,North Cambridge
+RICKY,POMERANIAN,,42.36580,-71.09120,The Port
+Candy,Beagle,,42.39650,-71.12920,North Cambridge
+Bennie,Havanese,,42.37140,-71.09300,Wellington-Harrington
+winston,Soft Coated Wheaten Terrier,,42.38060,-71.12320,Neighborhood Nine
+Martha,Mixed Breed,,42.37790,-71.12580,West Cambridge
+PEPE,Maltipoo,,42.36510,-71.09470,The Port
+Cooper,LABRADOR RETREIVER,,42.38300,-71.12990,Neighborhood Nine
+Samson,Rat Terrier Mix,,42.37310,-71.15430,Strawberry Hill
+Leo,Terrier Mix,,42.37650,-71.12430,West Cambridge
+WOOSTER,English Cocker Spaniel,,42.38360,-71.12950,Neighborhood Nine
+NINA,Spaniel Mix,,42.36960,-71.09480,The Port
+Mia,Yorkie-Poo,,42.38730,-71.12980,Neighborhood Nine
+Kingston,Terrier,,42.36020,-71.10300,Cambridgeport
+Madra,Mixed Breed,,42.36310,-71.09890,The Port
+Otto,Jack Russell Terrier,,42.38110,-71.12970,Neighborhood Nine
+Penelope,Labrador Retriever,,42.38020,-71.13140,West Cambridge
+LEXI,Maltese,,42.38040,-71.14120,West Cambridge
+Monty,Labrador Retriever,,42.36490,-71.11070,Cambridgeport
+Willow,Mixed Breed,,42.37750,-71.14160,West Cambridge
+Morey,Labrabor Retriever,,42.38550,-71.12000,Neighborhood Nine
+Gus,MIXED,,42.38740,-71.12690,Neighborhood Nine
+Cookie,Chihuahua,,42.35840,-71.11390,Cambridgeport
+Nova Sagan,Mixed Breed,,42.39540,-71.12940,North Cambridge
+Kaya,Tibetan Terrier,,42.36960,-71.10870,Mid-Cambridge
+Athena,Mixed Breed,,42.36410,-71.09140,The Port
+Marty McFly,Golden Retriever,,42.38110,-71.15160,Strawberry Hill
+Jackson,Mixed Breed,,42.37440,-71.08350,East Cambridge
+Marcus,Welsh Springer Spaniel,,42.37540,-71.12970,West Cambridge
+Jilly,Retriever (Lab Mix),,42.39800,-71.12870,North Cambridge
+Benno,Shepherd mix,,42.36880,-71.08220,East Cambridge
+Otto,Labradoodle,,42.38770,-71.11880,Neighborhood Nine
+Messi,mixed,,42.36840,-71.10190,Mid-Cambridge
+Kiwi,Mixed Breed,,42.39650,-71.12780,North Cambridge
+Niko,Mixed Breed,,42.37090,-71.08530,East Cambridge
+Kevin,Border Collie,,42.39440,-71.12140,North Cambridge
+Russet,Mixed Breed,,42.38990,-71.14400,Cambridge Highlands
+RUDI 3,Shih Tzu,,42.36640,-71.10810,Riverside
+Pepper,Mixed Breed,,42.38620,-71.13090,Neighborhood Nine
+Magnolia,cockapoo,,42.37240,-71.10170,Mid-Cambridge
+Ziggy,Labradoodle,,42.38340,-71.13310,West Cambridge
+Onyx,Labrador Retriever,,42.38990,-71.13020,North Cambridge
+Tula Lou,Mixed Breed,,42.36000,-71.10270,Cambridgeport
+Atkin,golden retriever,,42.37920,-71.13390,West Cambridge
+Hillary,Mixed Breed,,42.35500,-71.10760,Cambridgeport
+Coco,POODLE,,42.37320,-71.14300,West Cambridge
+Lexington,Cavalier King Charles Spaniel,,42.37840,-71.14550,West Cambridge
+Ladybird Underfoot,English Cocker Spaniel,,42.38980,-71.12610,North Cambridge
+Valentino,Mixed Breed,,42.39790,-71.12630,North Cambridge
+Jai,"Australian Shepherd, Miniature",,42.38880,-71.13270,North Cambridge
+Sophie,Pomsky,,42.39220,-71.12030,North Cambridge
+Sugar,Nova Scotia Duck Tolling Retriever,,42.37830,-71.14320,West Cambridge
+GEORGETTE,Belgian Malinois X,,42.38660,-71.13020,Neighborhood Nine
+Hamish,Cavapoo,,42.38860,-71.12690,Neighborhood Nine
+Susie,Dachshund,,42.39000,-71.15760,Cambridge Highlands
+Mikasa,Poodle,,42.36680,-71.07740,East Cambridge
+Sherlock,Mixed Breed,,42.37970,-71.12380,Neighborhood Nine
+Sadie,Cavachon,,42.37390,-71.14470,West Cambridge
+Sasha,Australian Shepherd,,42.37850,-71.10560,Mid-Cambridge
+Fern,Mutt,,42.36740,-71.08470,East Cambridge
+Luca,Mixed Breed,,42.38210,-71.12240,Neighborhood Nine
+ZOE,Whippet,,42.35910,-71.11050,Cambridgeport
+TIKAANI,Alaskan Malamute,,42.38010,-71.10730,Baldwin
+Sally,LABRADOR RETRIEVER,,42.37760,-71.15440,Strawberry Hill
+Riley,Golden Retriever,,42.38740,-71.12780,Neighborhood Nine
+Maya,Golden Retriever,,42.38930,-71.12430,North Cambridge
+Nico,Siberian Husky,,42.35720,-71.10400,Cambridgeport
+Tiger,Chihuahua,,42.36520,-71.08940,Area 2/MIT
+CHLOE,Polish Lowland Sheepdog,,42.37520,-71.09630,Wellington-Harrington
+Rufus,Mixed Breed,,42.37940,-71.10590,Mid-Cambridge
+Rufus,Labradoodle,,42.36230,-71.10940,Cambridgeport
+Django,Australian Cattle Dog,,42.38520,-71.13930,West Cambridge
+Deku,Mixed Breed,,42.39100,-71.14800,Cambridge Highlands
+Blue,Border Terrier,,42.38670,-71.13060,Neighborhood Nine
+Rosie,Cockapoo,,42.37220,-71.07990,East Cambridge
+Ollie,Golden Retriever,,42.38520,-71.13400,West Cambridge
+Portia,Havanese,,42.40170,-71.12980,North Cambridge
+LILY,LABRADOR RETREIVER,,42.38250,-71.13980,West Cambridge
+Nigel (previously Zaxby),Mixed Breed,,42.38750,-71.13630,West Cambridge
+Cora,Mixed Breed,,42.35340,-71.10550,Cambridgeport
+Luna,Mixed Breed,,42.35370,-71.10690,Cambridgeport
+Panda,Poodle,,42.39380,-71.13450,North Cambridge
+Oreo Cookie,Poodle,,42.36810,-71.10940,Mid-Cambridge
+Rosie,DACHSHUND MIX,,42.36690,-71.11430,Riverside
+Theo,Mixed Breed,,42.37440,-71.14990,Strawberry Hill
+Lorelei,Golden Retriever,,42.37780,-71.13020,West Cambridge
+Milo,Yorkshire Terrier,,42.36570,-71.10650,Mid-Cambridge
+Pippi Longpuppy,Mixed Breed,,42.38300,-71.14550,West Cambridge
+REMY,Golden Doodle,,42.37550,-71.13930,West Cambridge
+Yogi,Mixed Breed,,42.36510,-71.11460,Riverside
+Koda,Mixed Breed,,42.38030,-71.14060,West Cambridge
+Freya,Labrador Retriever / Shepherd,,42.37940,-71.12190,Neighborhood Nine
+Cupid,Lahsa Apso,,42.37550,-71.08640,East Cambridge
+Fitz,Pomsky,,42.38430,-71.11880,Neighborhood Nine
+Presley,Mixed Breed,,42.36180,-71.11210,Riverside
+Maddie Berseth,Mutt,,42.38330,-71.12020,Neighborhood Nine
+Bijou,Border Terrier,,42.38820,-71.12930,North Cambridge
+Ruby,GREYHOUND,,42.40200,-71.13410,North Cambridge
+Django,Mixed Breed,,42.37670,-71.15200,Strawberry Hill
+Scout,Lagotto Romagnolo,,42.37720,-71.14090,West Cambridge
+Minnie,Glen of Imaal Terrier,,42.38680,-71.12740,Neighborhood Nine
+Pasco,Mixed Breed,,42.39910,-71.13260,North Cambridge
+Maya,Australian Shepherd,,42.39560,-71.13220,North Cambridge
+Millie,English Springer Spaniel,,42.38210,-71.14460,West Cambridge
+Sonny,Jack Russell Terrier,,42.36050,-71.11280,Cambridgeport
+Keyani,mix,,42.37210,-71.09110,Wellington-Harrington
+Anzu,Mixed Breed,,42.37860,-71.15330,Strawberry Hill
+Sadie,Samoyed,,42.38190,-71.13330,West Cambridge
+Vince,Mixed Breed,,42.35990,-71.08410,Area 2/MIT
+Ryley,Miniature Schnauzer,,42.39060,-71.12690,North Cambridge
+Ralph,Bichon Frise,,42.37530,-71.13280,West Cambridge
+Ollie Barrett,Goldendoodle,,42.36930,-71.11050,Riverside
+DAKOTA,Portuguese  Water  Dog,,42.36490,-71.11230,Riverside
+Maisie,American Eskimo Dog,,42.39720,-71.13690,North Cambridge
+Toby,Mixed Breed,,42.38650,-71.12550,Neighborhood Nine
+Phoebe,Labradoodle,,42.37570,-71.13600,West Cambridge
+Buffy ,Tibetan Terrier,,42.39060,-71.12030,North Cambridge
+Maple Weiss,Mixed Breed,,42.37710,-71.12580,West Cambridge
+Corey,English Cocker Spaniel,,42.38360,-71.13810,West Cambridge
+TUCKY SUE,Golden Doodle,,42.37550,-71.14710,West Cambridge
+Frankie,shitzu,,42.38430,-71.11660,Baldwin
+CHARLIE BLONDE,LABRADOR RETREIVER,,42.37570,-71.10810,Baldwin
+Scout,Labradoddle,,42.36440,-71.11200,Cambridgeport
+Rose,Mixed Breed,,42.37350,-71.14900,Strawberry Hill
+LULU,Sato,,42.36380,-71.10090,Cambridgeport
+Otis,Mixed Breed,,42.37040,-71.09330,The Port
+Maisie,Australian Cattle Dog,,42.37720,-71.14480,West Cambridge
+Bagel,Labradoodle,,42.35750,-71.10210,Cambridgeport
+Ollie,Bernedoodle,,42.35890,-71.10540,Cambridgeport
+Tala,Goldendoodle,,42.37030,-71.10630,Mid-Cambridge
+Nala,Mixed Breed,,42.39470,-71.12500,North Cambridge
+Albie,LABRADOODLE,,42.37810,-71.14340,West Cambridge
+Bourbon,Miniature Pinscher,,42.36580,-71.08680,Area 2/MIT
+Georgie,Lhasa Apso,,42.37660,-71.13980,West Cambridge
+Lulu,Nova Scotia Duck Tolling Retriever,,42.38510,-71.13720,Neighborhood Nine
+Murphy,Border Collie,,42.38360,-71.13390,Neighborhood Nine
+Lucy,Goldendoodle,,42.38950,-71.12400,North Cambridge
+Ranger,Aust Shep Mix,,42.38140,-71.11370,Baldwin
+King Shaka Zulu,Poodle,,42.39960,-71.13400,North Cambridge
+DAISY,Terrier Mix,,42.38200,-71.12080,Neighborhood Nine
+Teddy,Mixed Breed,,42.38750,-71.12450,Neighborhood Nine
+Alice,POINTER MIX,,42.36680,-71.10640,Mid-Cambridge
+Piper,Australian Cattle Dog,,42.38100,-71.14230,West Cambridge
+Archie,Mixed Breed,,42.38170,-71.13900,West Cambridge
+Scout,Labrador Retriever,,42.37520,-71.13710,West Cambridge
+Sasha,Bichon Frise,,42.38250,-71.14060,West Cambridge
+Nigel,Goldendoodle,,42.36630,-71.10940,Riverside
+TWIG,Sato,,42.38070,-71.14170,West Cambridge
+Smoky Joe,Poodle,,42.37290,-71.12330,West Cambridge
+Julie,Labrador Retriever,,42.36770,-71.11550,Riverside
+Sweetea,Mixed Breed,,42.38690,-71.13180,Neighborhood Nine
+Pippi,Golden Doodle,,42.38540,-71.12950,Neighborhood Nine
+Artemis,Mixed Breed,,42.36580,-71.11560,Riverside
+Millie,mixed,,42.38540,-71.12580,Neighborhood Nine
+Cooper,German Shorthaired Pointer,,42.35810,-71.09820,Cambridgeport
+Marty Segel,Labradoodle,,42.37720,-71.13780,West Cambridge
+Talia,Labradoodle,,42.37430,-71.13000,West Cambridge
+Bailey,Labrador Retriever,,42.36320,-71.10170,Cambridgeport
+Bootsy,Border collie,,42.38620,-71.13560,Neighborhood Nine
+Nala,Mixed Breed,,42.37920,-71.11020,Mid-Cambridge
+Levi,Golden Retriever,,42.37260,-71.09630,Wellington-Harrington
+Bee Gee,Mixed Breed,,42.38180,-71.14390,West Cambridge
+Scooby,Labrador Retriever,,42.36500,-71.10560,Mid-Cambridge
+Bisuit Carey,cockapoo,,42.37300,-71.11120,Mid-Cambridge
+Winston,Mixed Breed,,42.40150,-71.13280,North Cambridge
+OBIE,Labrador Retriever,,42.37200,-71.12440,West Cambridge
+Indigo (Indi),Australian Shepherd,,42.38270,-71.12360,Neighborhood Nine
+Candi,Greyhound,,42.39470,-71.13180,North Cambridge
+Maggie,Mixed Breed,,42.40270,-71.14980,North Cambridge
+Tasha,Chihuahua,,42.37210,-71.07390,East Cambridge
+Kamani,Border Collie,,42.39100,-71.12430,Neighborhood Nine
+stuart little,Dachshund,,42.38150,-71.13530,West Cambridge
+Ruby,Duck Tolling Retriever,,42.39440,-71.15820,Cambridge Highlands
+Ajax,Labrador Retriever Mix,,42.38960,-71.12460,North Cambridge
+Mookie,Mixed Breed,,42.36180,-71.11210,Cambridgeport
+Olive,Golden Retriever,,42.36350,-71.08990,Area 2/MIT
+Izzy,Shih Tzu,,42.38650,-71.13980,West Cambridge
+Luna ,Shih Tzu,,42.36590,-71.08120,East Cambridge
+Wesley,Yellow Lab mix,,42.37200,-71.10360,Mid-Cambridge
+DAISY,Golden  Retriever,,42.36210,-71.10750,Cambridgeport
+AINSLEY,Labrador Retriever X,,42.36850,-71.11220,Riverside
+Fiona,Labradoodle,,42.37600,-71.12690,West Cambridge
+Mari,Border Collie,,42.37000,-71.10660,Mid-Cambridge
+Maggie,Mixed Breed,,42.37650,-71.12670,West Cambridge
+Ziba,Labrador,,42.36850,-71.11490,Mid-Cambridge
+RICKY,Australian  Shepherd,,42.38300,-71.13240,Neighborhood Nine
+FINN ,French Bulldog,,42.37130,-71.08820,East Cambridge
+Atlas LeSoltis,Goldendoodle,,42.39510,-71.13320,North Cambridge
+Otis,American Pit Bull Terrier,,42.36560,-71.10210,The Port
+Coco,Vizsla,,42.37200,-71.12330,West Cambridge
+Niko,Mixed Breed,,42.37770,-71.12650,West Cambridge
+Copper,Mixed Breed,,42.37690,-71.14280,West Cambridge
+LUCY,LABRADOR RETREIVER,,42.38630,-71.12160,North Cambridge
+Haku (Kohaku),Mixed Breed,,42.38330,-71.11420,Baldwin
+Luka,Portuguese Water Dog,,42.38620,-71.13250,Neighborhood Nine
+Bo,Cairn Terrier,,42.37330,-71.10840,Mid-Cambridge
+Simba,Malamute,,42.38640,-71.12410,Neighborhood Nine
+Rex,Maltese,,42.38180,-71.13220,West Cambridge
+REMO,Mixed Breed,,42.36830,-71.10290,Mid-Cambridge
+Macchiato,Labradoodle,,42.37700,-71.12480,West Cambridge
+Bison,Cavalier King Charles Spaniel,,42.35670,-71.10380,Cambridgeport
+Ditto,Tibetan Terrier,,42.38440,-71.13190,West Cambridge
+Benoit Tutokanula Bus,French Bulldog,,42.36400,-71.08150,East Cambridge
+Terry,Terrier,,42.37300,-71.10660,Mid-Cambridge
+Jake,Australian Labradoodle,,42.38150,-71.11590,Baldwin
+Winston Sullivan ,Labrador Retriever,,42.38380,-71.12570,Neighborhood Nine
+MELLON,LABRADOR RETREIVER,,42.36830,-71.08090,East Cambridge
+Luna,Mixed Breed,,42.37930,-71.10560,Mid-Cambridge
+Peaches,LABRADOR RETRIEVER,,42.37900,-71.13230,West Cambridge
+Sebastian,MINIATURE POODLE,,42.37160,-71.08250,East Cambridge
+Zoey,Golden Retriever,,42.38020,-71.14000,West Cambridge
+Manet,Poodle,,42.37940,-71.12040,Neighborhood Nine
+Toni,Australian Shepherd,,42.38870,-71.12710,North Cambridge
+Charlie,Border Terrier Mix,,42.36210,-71.11180,Cambridgeport
+Penny,Mixed Breed,,42.36660,-71.10530,Mid-Cambridge
+Bailey,Labrador Retriever,,42.38130,-71.14110,West Cambridge
+NELLIE,Whoodle,,42.38230,-71.13320,Neighborhood Nine
+Boris,pug,,42.38300,-71.13780,Neighborhood Nine
+Orly Sommer,Siberian Husky,,42.36800,-71.09450,The Port
+LUCY,Golden  Retriever,,42.38820,-71.13150,Neighborhood Nine
+Waffles,Golden Retriever,,42.37020,-71.10360,Mid-Cambridge
+Frank,Plott,,42.39250,-71.12070,North Cambridge
+Mochi,Labrador Retriever,,42.36250,-71.11070,Cambridgeport
+Franklin,POODLE,,42.39360,-71.12360,North Cambridge
+Frankie,Mixed Breed,,42.36940,-71.09370,Wellington-Harrington
+Kate,Mixed Breed,,42.37080,-71.12440,West Cambridge
+Bell,LAB DOODLE,,42.38030,-71.13310,West Cambridge
+Mica,Sato,,42.37680,-71.15160,Strawberry Hill
+CLOVER,Border Collie Mix,,42.35990,-71.10830,Cambridgeport
+Milo,Mixed Breed,,42.36480,-71.10780,Riverside
+Honey,Mixed Breed,,42.39090,-71.13350,Neighborhood Nine
+Mando,Australian Kelpie,,42.37950,-71.12300,Neighborhood Nine
+Pele,Boston Terr.,,42.39080,-71.12800,North Cambridge
+Snickers,Cockapoo,,42.39340,-71.13290,North Cambridge
+GRACIE,Sheltie X,,42.38640,-71.13160,Neighborhood Nine
+Mylo,Cockapoo,,42.39890,-71.12880,North Cambridge
+Charlie,Mixed Breed,,42.37180,-71.10520,Mid-Cambridge
+Echo,labrador retriever,,42.37560,-71.14180,West Cambridge
+Maddie,West Highland White Terrier,,42.38460,-71.12360,Neighborhood Nine
+Madison,Golden Retriever,,42.37000,-71.11210,Mid-Cambridge
+Jessie,Labradoodle,,42.37540,-71.14130,West Cambridge
+Winslow,Mixed Breed,,42.37140,-71.10740,Mid-Cambridge
+Ella,Newfoundland,,42.38890,-71.12840,Neighborhood Nine
+FLASH,Border Collie,,42.39690,-71.13070,North Cambridge
+Kaya,Labrador Retriever Mix,,42.36270,-71.11420,Cambridgeport
+Shadow,Mixed Breed,,42.37190,-71.10260,Mid-Cambridge
+Reese,Chihuahua  Mix,,42.38430,-71.11580,Baldwin
+Dotty,Australian Shepherd,,42.38610,-71.13440,Neighborhood Nine
+Blue,Catahola Mix,,42.37560,-71.13200,West Cambridge
+Kkaebi,Korean Jindo Dog,,42.36790,-71.08840,East Cambridge
+Barkley,Goldendoodle,,42.38920,-71.12240,North Cambridge
+Rider,Labrador Retriever,,42.37010,-71.10270,Mid-Cambridge
+Watson,Labradoodle,,42.37190,-71.11380,Mid-Cambridge
+Penny,Golden Retriever,,42.37490,-71.14050,West Cambridge
+Ava,German Shepherd Dog,,42.38370,-71.13820,Neighborhood Nine
+Jep,Mixed Breed,,42.38440,-71.12160,Neighborhood Nine
+Copper,Nova Scotia Duck Tolling Retriever,,42.37560,-71.14860,West Cambridge
+Zoe,German Shepherd-Lab,,42.39240,-71.13150,North Cambridge
+BOOTS,Labrador Retriever X,,42.37800,-71.11510,Baldwin
+Otto,Mixed Breed,,42.38610,-71.12570,Neighborhood Nine
+Simon,Mixed Breed,,42.40170,-71.12970,North Cambridge
+Harry,Miniature Schnauzer,,42.38970,-71.12550,North Cambridge
+Winnie,Mixed Breed,,42.36950,-71.11260,Riverside
+Zoe,Mixed Breed,,42.36470,-71.10380,Mid-Cambridge
+Archie Tyrone,Coton De  Tulear,,42.39770,-71.13130,North Cambridge
+Cooper,Golden Retriever,,42.36960,-71.11120,Mid-Cambridge
+Duncan,Mixed Breed,,42.35700,-71.11050,Cambridgeport
+Sadie,Siberian Husky,,42.38180,-71.14200,West Cambridge
+chance,Goldendoodle,,42.39110,-71.15430,Cambridge Highlands
+Rowley,Golden Retriever,,42.37690,-71.13320,West Cambridge
+Kielo,Belgian Malinois,,42.37610,-71.13350,West Cambridge
+BRUTUS,Mixed Breed,,42.36300,-71.07870,East Cambridge
+Rudy,Miniature Schnauzer,,42.36980,-71.08140,East Cambridge
+BANNI,Terrier Mix,,42.37280,-71.15210,Strawberry Hill
+COCO,Springer Spaniel,,42.38630,-71.12330,Neighborhood Nine
+Theodore ,Beagle,,42.37780,-71.11460,Baldwin
+Jack,Poodle,,42.36660,-71.10970,Riverside
+Twyla,Poddle Mix,,42.36740,-71.08300,East Cambridge
+Maggie,Mixed Breed,,42.36110,-71.11020,Cambridgeport
+Charlie,Mixed Breed,,42.37670,-71.15020,Strawberry Hill
+Odin,Airedale Terrier,,42.39050,-71.12580,Neighborhood Nine
+Taffy,Chihuahua,,42.36700,-71.07610,East Cambridge
+Theo,English Cocker Spaniel,,42.39300,-71.11940,North Cambridge
+Kidja,Mixed Breed,,42.37290,-71.07740,East Cambridge
+Angel,Mixed Breed,,42.39070,-71.13060,North Cambridge
+Doolin,Golden Doodle,,42.37830,-71.15290,Strawberry Hill
+Laddie Boy,West Highland White Terrier,,42.38450,-71.13970,West Cambridge
+Poppy,Mixed Breed,,42.38890,-71.12150,North Cambridge
+Astrid,Mixed Breed,,42.36810,-71.10520,Mid-Cambridge
+Nora,Mixed Breed,,42.37160,-71.08770,Wellington-Harrington
+JUNE BUG,Schnauzer Mix,,42.36520,-71.10890,Riverside
+Kolsch,Miniature Schnauzer,,42.36690,-71.10660,Riverside
+ELSA,Yorksire Terrier,,42.39090,-71.12210,North Cambridge
+Moses,Australian Shepherd,,42.36760,-71.09660,Wellington-Harrington
+Murphy,Mixed Breed,,42.38130,-71.12490,Neighborhood Nine
+ANNIE,Pit Bull,,42.39710,-71.13790,North Cambridge
+Ogden,Golden Retriever,,42.39380,-71.13310,North Cambridge
+Walter,Norwich Terrier,,42.37550,-71.10280,Mid-Cambridge
+SHEENA,English Bulldog,,42.38670,-71.13810,West Cambridge
+Bear,Mixed Breed,,42.35400,-71.10940,Cambridgeport
+Emma ,Golden Retriever,,42.38490,-71.12210,Neighborhood Nine
+Blue,Treeing Walker Coonhound,,42.36290,-71.10750,Cambridgeport
+Colby,Cocker Spaniel,,42.36620,-71.10380,Mid-Cambridge
+Nina,Mixed Breed,,42.38460,-71.12220,Neighborhood Nine
+FINNEGAN,Golden Retriever,,42.36930,-71.10670,Mid-Cambridge
+Sawyer,Mixed Breed,,42.37800,-71.11050,Mid-Cambridge
+Bella (formerly known as Haute),Mixed Breed,,42.39470,-71.13260,North Cambridge
+Bo,Cocker Spaniel,,42.37590,-71.10450,Mid-Cambridge
+Ginger,Mini Golden Doodle,,42.39040,-71.12280,North Cambridge
+Pemi,Bernedoodle,,42.37210,-71.09750,Wellington-Harrington
+Mars ,Pug,,42.36610,-71.09350,Wellington-Harrington
+Ivy,Lakeland Terrier,,42.37550,-71.10690,Mid-Cambridge
+Gus Domanico,Mixed Breed,,42.35620,-71.11010,Cambridgeport
+Sparrow,Shih Tsu,,42.38320,-71.14270,West Cambridge
+CAZ,Golden Doodle,,42.37930,-71.13930,West Cambridge
+Lucy,Miniature Pincher,,42.36800,-71.10870,Mid-Cambridge
+BEAU,German Shepherd,,42.37010,-71.10460,Mid-Cambridge
+Asta,Fox Terrier,,42.37990,-71.12700,West Cambridge
+Mina (changed from Bailey Jane),Mixed Breed,,42.38080,-71.12590,Neighborhood Nine
+Chloe,Bernedoodle,,42.38170,-71.14380,West Cambridge
+ANNIE,TERRIER X,,42.36800,-71.11750,Riverside
+Nini,Lab  Mix,,42.39120,-71.12900,North Cambridge
+Jessie,Labrador Retriever,,42.37650,-71.13580,West Cambridge
+Pepper,Hound  Mix,,42.39630,-71.12940,North Cambridge
+Frankie,Labrador Retriever Mix,,42.36540,-71.09470,The Port
+Arya,Mixed Breed,,42.39690,-71.13170,North Cambridge
+SHADOW,Golden  Retriever,,42.37980,-71.13410,West Cambridge
+George,Maltipoo,,42.39680,-71.13330,North Cambridge
+TEDDY,Terrier Mix,,42.36180,-71.10510,Cambridgeport
+Itsy-Bitsy,Cocker Spaniel ,,42.37070,-71.11280,Riverside
+BILLIE,Australian Cattle Dog Mix,,42.38440,-71.12490,Neighborhood Nine
+Josie,Labradoodle,,42.36750,-71.10810,Riverside
+Reesie,Mixed Breed,,42.37270,-71.11420,Mid-Cambridge
+Shadow,Mixed Breed,,42.35880,-71.10640,Cambridgeport
+Oliver,Mixed Breed,,42.35580,-71.10890,Cambridgeport
+Abby,Labrador Retriever,,42.38800,-71.11900,Baldwin
+Bingley,Golden Retreiver,,42.38080,-71.12800,West Cambridge
+Clarabelle,Swiss Mountain Dog X,,42.36880,-71.09620,The Port
+Yoda,Mixed Breed,,42.39320,-71.12500,North Cambridge
+Miles,Mixed Breed,,42.35730,-71.11230,Cambridgeport
+Malou,Golden doodle,,42.36550,-71.11240,Riverside
+Dexter,Mixed Breed,,42.36140,-71.10370,Cambridgeport
+Digby,Lab Retriever Mix,,42.35690,-71.11330,Cambridgeport
+Violet,Mixed Breed,,42.38540,-71.11590,Baldwin
+Elvis,Hound  Mix,,42.37330,-71.15280,Strawberry Hill
+Aquinnah (formerly Rosie),Mixed breed,,42.36610,-71.08540,East Cambridge
+Lina,doodle,,42.38250,-71.13060,Neighborhood Nine
+Roscoe,Staffordshire Bull Terrier,,42.39650,-71.13520,North Cambridge
+Coco,Shih Tzu,,42.39030,-71.14150,North Cambridge
+RORY,Collie X,,42.38870,-71.12910,Neighborhood Nine
+Milo,POODLE MIX,,42.37710,-71.13550,West Cambridge
+Norma Jean,Scottish Terrier,,42.36410,-71.08150,East Cambridge
+Lacey,Mixed Breed,,42.38560,-71.12200,Neighborhood Nine
+Fusilli,German Shepherd,,42.38970,-71.12890,North Cambridge
+Kiwi,MINI AUSSIE,,42.38250,-71.13280,Neighborhood Nine
+Zoombow,Goldendoodle,,42.36280,-71.10730,Cambridgeport
+Argos,Labrador Retriever Mix,,42.37670,-71.12480,West Cambridge
+LULU,goldendoodle,,42.39490,-71.13520,North Cambridge
+Manolo,Mixed Breed,,42.36650,-71.08990,Wellington-Harrington
+OBIE,Cockerpoo,,42.38450,-71.12550,Neighborhood Nine
+Rubio,Mixed Breed,,42.36650,-71.10610,Riverside
+Phoebe,Mixed Breed,,42.37090,-71.08530,East Cambridge
+Tello,Poodle,,42.37500,-71.12630,West Cambridge
+Jasmine,Mixed Breed,,42.39290,-71.12350,North Cambridge
+Lola,Goldendoodle,,42.36030,-71.10260,Cambridgeport
+Porter,Mixed Breed,,42.37450,-71.09620,Wellington-Harrington
+Puck,Chihuahua,,42.38900,-71.12830,Neighborhood Nine
+Otis,Mixed Breed,,42.37400,-71.10780,Mid-Cambridge
+Rufus,Mixed Breed,,42.39320,-71.13420,North Cambridge
+DOTTIE,Hound Mix,,42.37890,-71.12930,West Cambridge
+HUNTER,Maltipoo,,42.37610,-71.13310,West Cambridge
+Hercules,Cavalier King Charles Spaniel,,42.39100,-71.12330,Neighborhood Nine
+CHARLIE,Shih Tzu X,,42.38800,-71.12530,Neighborhood Nine
+Ash,Golden Retriever,,42.38770,-71.12850,Neighborhood Nine
+Juno,Cavalier King Charles Spaniel,,42.35670,-71.10940,Cambridgeport
+Mookie,HAVANESE,,42.37450,-71.10750,Mid-Cambridge
+Charlie,Mixed Breed,,42.37020,-71.08700,Wellington-Harrington
+Nellie,Terrier  Mix,,42.38900,-71.12090,Neighborhood Nine
+Biko,VIZSLA,,42.35970,-71.09610,Area 2/MIT
+Zuko,Welsh Terrier,,42.39850,-71.13280,North Cambridge
+Otis,Mixed Breed,,42.38300,-71.11700,Baldwin
+Bingley,Poodle,,42.39210,-71.12890,North Cambridge
+Woody,Pembroke Welsh Corgi,,42.38780,-71.12750,Neighborhood Nine
+Maisie,Golden Retriever,,42.38320,-71.13100,West Cambridge
+Aspen ,Australian Shepherd,,42.37730,-71.12810,West Cambridge
+Mildred,Rottweiler,,42.38270,-71.13140,Neighborhood Nine
+Trekker,GOLDEN RETIEVER,,42.37010,-71.09260,Wellington-Harrington
+Ziggy Stardust Gage,Goldendoodle,,42.37020,-71.10560,Mid-Cambridge
+Milo,Mixed Breed,,42.38330,-71.11330,Baldwin
+Wallace,Brittany,,42.35950,-71.10720,Cambridgeport
+TIA,Labrador Retriever X,,42.39110,-71.12840,Neighborhood Nine
+Teddy Tallon,Bichon Frise,,42.38700,-71.12940,Neighborhood Nine
+Chloe,English bulldog,,42.37310,-71.13570,West Cambridge
+Puck,Goldendoodle,,42.37050,-71.11240,Mid-Cambridge
+GIGI,MINIATURE  POODLE,,42.38280,-71.13030,Neighborhood Nine
+Motorino,Bernese Mountain Dog,,42.39250,-71.13450,North Cambridge
+Dali,LABRADOR RETREIVER,,42.37140,-71.07540,East Cambridge
+Penny,Shep Mix,,42.36860,-71.08740,East Cambridge
+Ruby,Mixed Breed ,,42.36990,-71.09780,Wellington-Harrington
+Niu-Niu,Chow Chow,,42.37440,-71.13990,West Cambridge
+Fluffy,POMERANIAN,,42.37350,-71.08450,East Cambridge
+Lizzie,Poodle,,42.37030,-71.12510,West Cambridge
+Wilson,Bernedoodle,,42.37580,-71.13440,West Cambridge
+Charlie,Golden Retriever,,42.37620,-71.14610,West Cambridge
+Pilot,Pug Mix,,42.36720,-71.09410,Wellington-Harrington
+Ben,Portuguese Water Dog,,42.37070,-71.09730,The Port
+Beckett,Mixed Breed,,42.36810,-71.10760,Mid-Cambridge
+Jasper,Mixed Breed,,42.36640,-71.09530,The Port
+Maple,mixed,,42.36820,-71.09870,The Port
+Pebbles,Chihuahua,,42.39480,-71.13040,North Cambridge
+OTTO,Bichon Frise,,42.39560,-71.13300,North Cambridge
+Roo,Collie,,42.38560,-71.13060,Neighborhood Nine
+MILO,Chihuahua X,,42.37530,-71.08180,East Cambridge
+Anna,yorkie,,42.38960,-71.12190,North Cambridge
+Nomar,MIXED,,42.39280,-71.13620,North Cambridge
+Molly,Mixed Breed,,42.38250,-71.14290,West Cambridge
+Kirby,Shiba Inu,,42.39230,-71.13060,Neighborhood Nine
+Maya,Mixed Breed,,42.38390,-71.14420,West Cambridge
+MILA,German Shepherd,,42.36440,-71.10360,Cambridgeport
+Henry,Bichon Frise,,42.37290,-71.07930,East Cambridge
+Josephine ,Mixed Breed,,42.37930,-71.13590,West Cambridge
+Maudlin,Mixed Breed,,42.38460,-71.12770,Neighborhood Nine
+Lola,Mixed Breed,,42.37880,-71.15540,Strawberry Hill
+Patrick,Toy Fox Terrier,,42.36850,-71.10560,Mid-Cambridge
+Nora,Catahoula Mix,,42.36380,-71.11410,Cambridgeport
+Bean (Magic Bean),Labrador Retriever,,42.39210,-71.11900,North Cambridge
+Chimi,Mixed Breed,,42.39320,-71.13290,North Cambridge
+Cara,Poodle (Standard),,42.38140,-71.11390,Baldwin
+max,Tibetan Terrier,,42.38230,-71.13380,Neighborhood Nine
+Busy,CAIRN TERRIER,,42.36450,-71.10990,Cambridgeport
+Cuchulainn,Goldendoodle,,42.38200,-71.11880,Baldwin
+Ozzie,Mixed Breed,,42.38330,-71.12760,Neighborhood Nine
+Keno,Standard poodle,,42.39640,-71.14070,North Cambridge
+Rosie,jack russell,,42.36640,-71.10570,Cambridgeport
+CHLOE,Schnauzer Mix,,42.36860,-71.07710,East Cambridge
+Blue Comet,Mixed Breed,,42.37050,-71.09870,The Port
+Sheila,Labradoodle,,42.37980,-71.12600,West Cambridge
+Echo,Mixed Breed,,42.38720,-71.11650,Baldwin
+Toffee,Golden retriever,,42.36620,-71.09390,Wellington-Harrington
+Nessie,Labrador Retriever,,42.39240,-71.13130,North Cambridge
+Nellie,Beagle Mix,,42.36000,-71.11000,Cambridgeport
+Cali,Goldendoodle,,42.38470,-71.13160,Neighborhood Nine
+Beans,Mixed Breed,,42.37370,-71.07580,East Cambridge
+Mina,Mixed Breed,,42.38380,-71.13390,Neighborhood Nine
+Peanut,Bull Mastiff,,42.37230,-71.13290,West Cambridge
+Tucker Alvord,GOLDEN DOODLE MINI,,42.38820,-71.12740,Neighborhood Nine
+Dewey,Portuguese Water Dog,,42.36470,-71.10460,Cambridgeport
+Willy,Labraddoodle,,42.39000,-71.13610,Neighborhood Nine
+Auggie ,Mixed Breed,,42.38160,-71.12510,Neighborhood Nine
+Bergeron,Mixed Breed,,42.36870,-71.07570,East Cambridge
+Merry,Pembroke Welsh Corgi,,42.38680,-71.11470,Baldwin
+Sophie Kline,Mixed Breed,,42.37910,-71.13320,West Cambridge
+Mali,Mixed Breed,,42.38120,-71.14230,West Cambridge
+OLIVER,Basset Hound,,42.38230,-71.13130,West Cambridge
+Max,Golden Retriever,,42.36260,-71.10710,Cambridgeport
+CHLOE,Tzu-Chon,,42.38080,-71.13080,Neighborhood Nine
+Roxanne,Bulldog,,42.39030,-71.12830,North Cambridge
+Rocket,Mixed Breed,,42.38670,-71.12750,Neighborhood Nine
+Jetta,Yorkie Terrier X,,42.36360,-71.10570,Cambridgeport
+Snug,labradoodle,,42.39210,-71.13570,Neighborhood Nine
+Lacy,Blue Lacy,,42.37790,-71.13830,West Cambridge
+Fluffy,Goldendoodle,,42.36130,-71.11120,Cambridgeport
+Jeff Williams,labredor retreiver,,42.36710,-71.08430,East Cambridge
+Bailey,Golden Retriever,,42.38320,-71.12750,Neighborhood Nine
+Teddy,Labradoodle,,42.36150,-71.09980,Cambridgeport
+Rosie,Goldendoodle,,42.38200,-71.14360,West Cambridge
+Ellie Jelly Belly K,Chocolate Lab,,42.38540,-71.12060,Baldwin
+Winn,VIZSLA,,42.37480,-71.14900,Strawberry Hill
+Wolfie,Goldendoodle,,42.38000,-71.14390,West Cambridge
+Ducky Boy,American Pit Bull Terrier,,42.38090,-71.14070,West Cambridge
+Oliver,Mixed Breed,,42.36880,-71.10890,Mid-Cambridge
+Mia,Mixed Breed,,42.36640,-71.08000,East Cambridge
+Mina,Labrador Retriever Mix,,42.38750,-71.13040,Neighborhood Nine
+Ernie Hughes,Mixed Breed,,42.38520,-71.13090,Neighborhood Nine
+Stella,Samoyed,,42.38930,-71.12630,Neighborhood Nine
+Allie,Cavalier King Charles Spaniel,,42.38750,-71.13010,Neighborhood Nine
+Raymond,Mixed Breed,,42.37410,-71.10890,Mid-Cambridge
+Fiona,Boxer,,42.39950,-71.13580,North Cambridge
+Maisy,Mixed Breed,,42.39510,-71.12560,North Cambridge
+Yofi,Tibetan Terrier,,42.39060,-71.12870,North Cambridge
+Benny,Yorkipoo,,42.38610,-71.12290,Neighborhood Nine
+Louie,Vizsla,,42.35970,-71.09600,Area 2/MIT
+Bruno,Mixed Breed,,42.39930,-71.13530,North Cambridge
+Finn,Mixed Breed,,42.38080,-71.12310,West Cambridge
+Ellie,Nova Scotia Duck Tolling Retriever,,42.36330,-71.07930,East Cambridge
+Chilton,Mixed Breed,,42.38780,-71.13540,Neighborhood Nine
+Finn,Mixed Breed,,42.37340,-71.08420,East Cambridge
+Moxie,Shih Tzu,,42.35520,-71.11210,Cambridgeport
+Hobbit,Beagle,,42.37140,-71.07800,East Cambridge
+Morgan,Mixed Breed,,42.38220,-71.13510,West Cambridge
+Obi,Cocker Spaniel,,42.37780,-71.11020,Mid-Cambridge
+Harmony,terrier,,42.35960,-71.10770,Cambridgeport
+Django,Soft Coated Wheaten Terrier,,42.37580,-71.11280,Mid-Cambridge
+ROSIE,Boxer,,42.35780,-71.11110,Cambridgeport
+Otto,American Staffordshire Terrier,,42.37040,-71.08420,East Cambridge
+Piper,french Brittany,,42.36650,-71.10200,The Port
+Leon,Newfoundland,,42.38370,-71.13360,West Cambridge
+Lucy,sato,,42.38710,-71.11530,Baldwin
+Bill,Mixed Breed,,42.35670,-71.10650,Cambridgeport
+Etta,Terrier Mix,,42.37840,-71.15560,Strawberry Hill
+Marley,Mixed Breed,,42.37040,-71.10650,Mid-Cambridge
+Ivy mamma,Lab mix,,42.37570,-71.09480,Wellington-Harrington
+Cooper,Pomsky,,42.37100,-71.11340,Mid-Cambridge
+Daphne,Viszla,,42.38160,-71.14050,West Cambridge
+Miso,Mixed Breed,,42.38540,-71.12850,Neighborhood Nine
+Alba,Labradoodle,,42.38650,-71.11890,Baldwin
+Erin,Mixed Breed,,42.38490,-71.12500,Neighborhood Nine
+Dia ,Mixed Breed,,42.38290,-71.13240,Neighborhood Nine
+Taz,Mixed Breed,,42.36000,-71.11220,Cambridgeport
+Wendy,Mixed Breed,,42.38320,-71.11580,Baldwin
+Rosie Green,Mixed Breed,,42.37500,-71.07640,East Cambridge
+Lolo,Mixed Breed,,42.37090,-71.10550,Mid-Cambridge
+Ophelia,Golden Retriever,,42.39410,-71.13240,North Cambridge
+ROCCO,Mixed Breed,,42.37150,-71.08990,Wellington-Harrington
+Ronja,HAVAPOO,,42.39600,-71.13640,North Cambridge
+Rosie,West Highland White Terrier,,42.37050,-71.08130,East Cambridge
+Rosie Bordone,Golden Ret,,42.38510,-71.13280,Neighborhood Nine
+Casca,Beagle,,42.38460,-71.12050,Baldwin
+cooper,Coton de Tulear,,42.38090,-71.15050,Strawberry Hill
+Brodie,Mixed Breed,,42.36840,-71.07930,East Cambridge
+Roscoe,Boston Terrier Mix,,42.38810,-71.15540,Cambridge Highlands
+Nova,French Bulldog,,42.39350,-71.14910,North Cambridge
+CLEA,Jack Russel Terrier,,42.37470,-71.13830,West Cambridge
+Boone,Goldendoodle,,42.39520,-71.13190,North Cambridge
+RONNIE,Portuguese Water Dog,,42.37050,-71.10160,The Port
+FRANKIE,Mix,,42.38270,-71.14280,West Cambridge
+SOFI,Shih Tzu,,42.36950,-71.08720,Wellington-Harrington
+Preston,Poodle,,42.39100,-71.14660,Cambridge Highlands
+Luna,Labrador Retriever,,42.39200,-71.13280,North Cambridge
+ISIS,Siberian Husky,,42.38330,-71.13850,West Cambridge
+Ruby,Collie,,42.38600,-71.12580,Neighborhood Nine
+BENJI,Schnauzer Mix,,42.39880,-71.13430,North Cambridge
+Sophie,Bernedoodle,,42.38960,-71.13620,North Cambridge
+Flash,Labrador Retriever,,42.36240,-71.08140,East Cambridge
+Figgy,Mixed Breed,,42.37090,-71.10000,Mid-Cambridge
+Ollie,Mixed Breed,,42.38820,-71.13270,Neighborhood Nine
+Delphine,Chihuahua,,42.36350,-71.10130,Cambridgeport
+Daisy,golden retriever,,42.39580,-71.12380,North Cambridge
+Gus,Shepherd Mix,,42.36880,-71.08930,East Cambridge
+Rigsby,Mutt,,42.38270,-71.13440,West Cambridge
+COOKIE,Yorksire Terrier,,42.35660,-71.10650,Cambridgeport
+Lydia,Bernedoodle,,42.39550,-71.12500,North Cambridge
+Shadow,Labrador Retriever,,42.38130,-71.13440,West Cambridge
+Che,LABRADOODLE,,42.37780,-71.13990,West Cambridge
+Mika,Border Terrier,,42.38050,-71.12480,Neighborhood Nine
+Navi,Mixed Breed,,42.39850,-71.12970,North Cambridge
+Sookie,Mixed Breed,,42.37030,-71.09330,Wellington-Harrington
+Cosmo,Cavalier King Charles Spaniel,,42.37850,-71.10940,Mid-Cambridge
+Sonny,Mixed Breed,,42.39480,-71.13310,North Cambridge
+Benny Levine,Mixed Breed,,42.38620,-71.13760,Neighborhood Nine
+Olive Gardner,Mixed Breed,,42.36350,-71.10130,Cambridgeport
+Sir Lancelot,French Bulldog,,42.35890,-71.10410,Cambridgeport
+Skye,Golden Retriever,,42.39170,-71.12360,North Cambridge
+Louie ,Goldendoodle,,42.38070,-71.13330,Neighborhood Nine
+Sunflower Sunshine (Sunny),Golden Retriever,,42.38360,-71.13730,West Cambridge
+Magnolia,Mixed Breed,,42.36420,-71.08250,East Cambridge
+Seva,Vizla Mix,,42.37320,-71.12470,West Cambridge
+Tootsie,Labrador Retreiver ,,42.36830,-71.08220,East Cambridge
+REX,Yorkshire  Terrier,,42.37120,-71.07930,East Cambridge
+Henry,Poodle,,42.39350,-71.11860,North Cambridge
+Dali Cicero,Poodle,,42.37110,-71.10190,Mid-Cambridge
+Maisy,Cotton De Toulear,,42.37830,-71.13940,West Cambridge
+Penelope,Mixed Breed,,42.38880,-71.12350,North Cambridge
+Red,Beagle ,,42.39490,-71.13300,North Cambridge
+Bailey,Australian Kelpie Mix,,42.39900,-71.12890,North Cambridge
+Mr. Eliot,Mixed Breed,,42.36740,-71.08690,East Cambridge
+Oscar Wilde,Goldendoodle,,42.37530,-71.14550,West Cambridge
+Bono,Cockapoo,,42.40180,-71.13790,North Cambridge
+Buda,VIZSLA,,42.36980,-71.09510,The Port
+Jamie,Labrador Retriever,,42.39130,-71.12420,Neighborhood Nine
+Charlie,Mixed Breed,,42.37550,-71.10730,Mid-Cambridge
+Olive,TERRIER X,,42.36510,-71.10960,Riverside
+Tagalong,LAB   MIX,,42.38250,-71.13610,Neighborhood Nine
+LUCY,Cockapoo,,42.36120,-71.10940,Cambridgeport
+Rumi,Samoyed,,42.36640,-71.08630,East Cambridge
+Oscar,LEONBERGER,,42.38440,-71.12790,Neighborhood Nine
+DELILAH,LABRADOR RETREIVER,,42.36150,-71.11210,Cambridgeport
+Kristoff,POMERANIAN   X,,42.37490,-71.09980,Wellington-Harrington
+Emma,Labrador Retriever,,42.38090,-71.12330,Neighborhood Nine
+Millie,Beagle,,42.38890,-71.13230,Neighborhood Nine
+Edgar,Nova Scotia Duck Tolling Retriever,,42.36010,-71.11230,Cambridgeport
+ZURI,Labrador Retriever X,,42.37500,-71.14110,West Cambridge
+Rocky,Mixed Breed,,42.36520,-71.11140,Riverside
+Bowie,Bernedoodle,,42.36910,-71.08690,East Cambridge
+Izzy,Goldendoodle,,42.35900,-71.10970,Cambridgeport
+Oscar Madison,Golden Doodle,,42.38320,-71.11780,Baldwin
+Izzy (Isabella),Yorkie,,42.36960,-71.10890,Riverside
+TUXEDO,Labrador Retriever X,,42.37770,-71.14720,Strawberry Hill
+LOUISA,Collie X,,42.35820,-71.11350,Cambridgeport
+Gemma,Mixed Breed,,42.39350,-71.13140,North Cambridge
+Cadbury,Cockapoo,,42.37470,-71.12860,West Cambridge
+Willow,shih Tzu,,42.36000,-71.10900,Cambridgeport
+Puck,Siberian Husky,,42.36730,-71.10790,Mid-Cambridge
+Pellet,mixed breed,,42.36720,-71.11520,Riverside
+Ginger,Mixed Breed,,42.36730,-71.11540,Riverside
+DOOGIE,Labradoodle Mix,,42.38030,-71.10940,Baldwin
+Doki,Shi Tzu,,42.39750,-71.13430,North Cambridge
+LULU,WHEATEN TERRIER,,42.38840,-71.13320,North Cambridge
+Ben Alan Donatello,Poodle,,42.39410,-71.14600,Cambridge Highlands
+Nola,POODLE MIX,,42.36370,-71.11030,Cambridgeport
+Oona,Mixed Breed,,42.38790,-71.12840,Neighborhood Nine
+Comet,Mixed Breed,,42.38750,-71.13220,Neighborhood Nine
+Lusa,Cockapoo,,42.38170,-71.13720,West Cambridge
+Rylie,Cairn Terrier Mix,,42.37010,-71.09560,The Port
+Data,Mixed Breed,,42.39600,-71.12820,North Cambridge
+Chico,Mixed Breed,,42.39040,-71.12570,Neighborhood Nine
+Yogi,HAVANESE,,42.37850,-71.14360,West Cambridge
+Breagha,Labrador Retriever,,42.36290,-71.11160,Cambridgeport
+Stella,Goldendoodle,,42.35930,-71.11190,Cambridgeport
+SPARKY,Labradoodle,,42.37870,-71.13370,West Cambridge
+Callie,Lab  Mix,,42.37100,-71.08940,East Cambridge
+Wilson,Corgi,,42.40170,-71.13640,North Cambridge
+Rescue,Labrador Retriever,,42.35790,-71.10370,Cambridgeport
+Bella,Chihuahua,,42.38870,-71.13170,North Cambridge
+Madison,Mixed Breed,,42.37380,-71.13500,West Cambridge
+Lewis,Poodle,,42.36960,-71.08690,East Cambridge
+Beemo,Dachshund,,42.36900,-71.10860,Mid-Cambridge
+Penny,Mixed Breed,,42.39430,-71.12890,North Cambridge
+Sonora,Great Pyrenees ,,42.38600,-71.13680,West Cambridge
+Princess Dolores,American Eskimo Dog,,42.37030,-71.08330,East Cambridge
+Captain,Maltese Shih Tzu,,42.37000,-71.07170,East Cambridge
+Luna,Goldendoodle,,42.37670,-71.13890,West Cambridge
+Valkyrie,Nova Scotia Duck Tolling Retriever,,42.37340,-71.11370,Mid-Cambridge
+Tito,Norwich Terrier,,42.37820,-71.12840,West Cambridge
+Annie,Dachshund,,42.39410,-71.12530,North Cambridge
+Nomsi,Pug,,42.37000,-71.10740,Mid-Cambridge
+Max,Golden Retriever,,42.37040,-71.11390,Riverside
+Badger,cockapoo,,42.38400,-71.14120,West Cambridge
+Zelda,Australian  Shepherd,,42.38310,-71.13080,West Cambridge
+Everly,Beagle,,42.38840,-71.14540,Cambridge Highlands
+SCARLETT,Treeing Coonhound,,42.39650,-71.13500,North Cambridge
+Peaches,Mixed Breed,,42.38340,-71.13220,Neighborhood Nine
+Otto,German Shorthaired Pointer,,42.38300,-71.14050,West Cambridge
+Rusty,Mixed Breed,,42.37490,-71.10940,Mid-Cambridge
+Covie Adeff,Australian Cattle Dog,,42.37310,-71.10650,Mid-Cambridge
+Marlowe,Mixed Breed,,42.37460,-71.09400,Wellington-Harrington
+Milo,Boston Terrier,,42.36450,-71.09320,The Port
+Grady,Mixed Breed,,42.39020,-71.12660,North Cambridge
+Pepper,Cockapoo,,42.36010,-71.10540,Cambridgeport
+Zelda,Mixed Breed,,42.39510,-71.12520,North Cambridge
+Mikey,Poodle/Shitzu,,42.36360,-71.11030,Cambridgeport
+Tupper,Treeing Walker Coonhound,,42.36790,-71.09360,Wellington-Harrington
+Coconut,Bernedoodle,,42.36470,-71.09890,The Port
+Puffin,Pug,,42.36880,-71.09080,Wellington-Harrington
+Theo,Mixed Breed,,42.38180,-71.13620,West Cambridge
+PESO,Australian  Shepherd,,42.37950,-71.14490,West Cambridge
+Pepper,West Highland terrior,,42.37890,-71.12370,Neighborhood Nine
+ABBY,Australian  Shepherd X,,42.36290,-71.11380,Cambridgeport
+Russell,Mixed Breed,,42.36330,-71.07620,East Cambridge
+Russell,Golden Retriever,,42.37990,-71.14200,West Cambridge
+Tobie,West Highland White Terrier,,42.35960,-71.10370,Cambridgeport
+Nila,Mixed Breed,,42.36500,-71.10400,Cambridgeport
+Miller,Mixed Breed,,42.36160,-71.10890,Cambridgeport
+Rudy,Mixed Breed,,42.37480,-71.11230,Mid-Cambridge
+SACHI,German Shepherd,,42.37130,-71.09650,Wellington-Harrington
+Celeste,Havanese,,42.38830,-71.12320,Neighborhood Nine
+Toby,Soft Coated Wheaten Terrier,,42.39730,-71.13470,North Cambridge
+Brooklyn,Cavalier King Charles Spaniel,,42.37830,-71.14550,West Cambridge
+Parsley,Mixed Breed,,42.36570,-71.11000,Cambridgeport
+Sammie,French Bulldog,,42.37730,-71.12870,West Cambridge
+Zelda,Mixed Breed,,42.36200,-71.10660,Cambridgeport
+Julius,Golden Retriever,,42.39240,-71.11870,North Cambridge
+MAYA,SHELTIE,,42.37040,-71.08700,East Cambridge
+Bao Bao,Labrador Retriever,,42.38510,-71.13350,Neighborhood Nine
+Teddy,multi poo,,42.37780,-71.13000,West Cambridge
+Jules,Labrador Retriever,,42.35900,-71.11210,Cambridgeport
+ECCO,Labradoddle,,42.37770,-71.13360,West Cambridge
+Sofi,shilo shephard,,42.36110,-71.10930,Cambridgeport
+SANDY,Shih Tzu,,42.37520,-71.14050,West Cambridge
+Toph,Mixed Breed,,42.37740,-71.11680,Mid-Cambridge
+LUCY,Cockapoo,,42.37700,-71.12470,West Cambridge
+MARS,Pug X,,42.37000,-71.09740,Wellington-Harrington
+Tucker,Siberian  Husky,,42.38710,-71.13560,West Cambridge
+Maple,Mixed Breed,,42.36770,-71.10250,Mid-Cambridge
+Figgs,Mixed Breed,,42.38370,-71.13390,Neighborhood Nine
+Cheo,Cocker,,42.37090,-71.08350,East Cambridge
+Yeti,Goldendoodle,,42.38200,-71.14100,West Cambridge
+WILLOW,LABRADOR RETRIEVER,,42.39300,-71.13230,North Cambridge
+Tessi,Bernedoodle,,42.37610,-71.12440,West Cambridge
+Georgia O'Keefe (Geo),English Setter,,42.38050,-71.14200,West Cambridge
+Caesar,Labradoodle,,42.36410,-71.10580,Riverside
+Misty,Mixed Breed,,42.37190,-71.09960,Wellington-Harrington
+RAY RAY,Mix,,42.35870,-71.10550,Cambridgeport
+Biscuit Grape-Juice,Treeing Walker Coonhound,,42.38420,-71.11760,Baldwin
+BOLT,Basenji,,42.36060,-71.10650,Cambridgeport
+Lucy ,Great Pyrenees,,42.40080,-71.13260,North Cambridge
+Walter,Mixed Breed,,42.39350,-71.11910,North Cambridge
+Jack,Poodle,,42.36860,-71.10760,Riverside
+Penny,Mixed Breed,,42.37440,-71.08970,Wellington-Harrington
+Cassius,Mixed Breed,,42.37240,-71.10850,Mid-Cambridge
+Tank,American Bully,,42.37090,-71.09070,Wellington-Harrington
+Colby,Golden  Retriever,,42.38190,-71.13920,West Cambridge
+Cora,Mixed Breed,,42.37370,-71.15100,Strawberry Hill
+Pearl,labradoodle,,42.37580,-71.09890,Wellington-Harrington
+Beau Kirpalani,GOLDEN DOODLE MINI,,42.38050,-71.11420,Baldwin
+Harck,Great Pyrenees Mix,,42.37060,-71.08030,East Cambridge
+Lychee,Mixed Breed,,42.39460,-71.12970,North Cambridge
+BOOMER,Labradoddle,,42.37680,-71.13410,West Cambridge
+Keena,golden mix,,42.37810,-71.13110,West Cambridge
+Enzo,Labradoodle,,42.37280,-71.14120,West Cambridge
+Elise,English Cocker Spaniel,,42.39260,-71.12450,North Cambridge
+Alfie,Brittany,,42.38100,-71.11860,Neighborhood Nine
+ARCHIE,Newfoundland,,42.35430,-71.10810,Cambridgeport
+Cheese,Labrador Retriever,,42.38070,-71.13730,West Cambridge
+Ada,Mixed Breed,,42.39260,-71.13000,North Cambridge
+Sebastian,Pitbull,,42.35610,-71.10930,Cambridgeport
+Ellie,Mixed Breed,,42.38900,-71.12490,Neighborhood Nine
+IZZY,Spaniel Mix,,42.35930,-71.10400,Cambridgeport
+Kobe,Sheltie X,,42.38640,-71.12580,Neighborhood Nine
+Freddy,Shep Mix,,42.38630,-71.12280,Neighborhood Nine
+CATO,Golden Doodle,,42.35820,-71.10950,Cambridgeport
+Clyde,Mixed Breed,,42.37990,-71.13900,West Cambridge
+Maisie,Norwich Terrier,,42.36600,-71.10410,Mid-Cambridge
+Josie,yorkie/poodle,,42.36350,-71.10770,Cambridgeport
+Greta,German Shepherd Dog,,42.37500,-71.14140,West Cambridge
+MAVERICK,LABRADOODLE,,42.38590,-71.11400,Baldwin
+PANDA,Portuguese  Water  Dog,,42.37430,-71.13940,West Cambridge
+Maggie Mae,Dachshund,,42.37420,-71.13220,West Cambridge
+Brady,pug,,42.37140,-71.13970,West Cambridge
+Butchie,Yorkshire,,42.36840,-71.09800,The Port
+Chloe,Mixed Breed,,42.37560,-71.07830,East Cambridge
+Phoebe,Labradoodle,,42.38570,-71.12650,Neighborhood Nine
+Charlie,Mixed Breed,,42.35900,-71.11030,Cambridgeport
+Seymour,Mixed Breed,,42.38380,-71.13900,West Cambridge
+Basil,Border Collie,,42.35950,-71.10980,Cambridgeport
+Luna,Labrador Retriever,,42.37790,-71.11300,Baldwin
+Ellie,Beagle  Mix,,42.37110,-71.10290,Mid-Cambridge
+Lucy,Mixed Breed,,42.36860,-71.10310,The Port
+Chip,Miniature Pinscher,,42.40210,-71.12970,North Cambridge
+ALLIE,Cockerpoo,,42.38280,-71.12170,Neighborhood Nine
+Jesse,Poodle,,42.38220,-71.12220,Neighborhood Nine
+BACI,LABRADOR RETREIVER,,42.36670,-71.10610,Mid-Cambridge
+Stevie,Mixed Breed,,42.39070,-71.11700,North Cambridge
+Olive,Mixed Breed,,42.38300,-71.11750,Baldwin
+Daisy (shelter name: Delilah) ,Jack Russell Terrier,,42.36100,-71.10190,Cambridgeport
+Sugar,Mixed Breed,,42.39090,-71.13500,North Cambridge
+Emma,Mixed Breed,,42.37170,-71.09910,The Port
+Abel,Mixed Breed,,42.38580,-71.12530,Neighborhood Nine
+Otis,Mixed Breed,,42.38480,-71.13080,Neighborhood Nine
+Bella,Mixed Breed,,42.37110,-71.10040,Mid-Cambridge
+MAYBEL,Chihuahua X,,42.37010,-71.08320,East Cambridge
+Daisy,Poodle,,42.38340,-71.12830,Neighborhood Nine
+Millie,Boxer mix,,42.37070,-71.10390,Mid-Cambridge
+TIGER,Cockerpoo,,42.37590,-71.12780,West Cambridge
+Macaron,Shiba Inu,,42.36990,-71.08370,East Cambridge
+Emmit,POODLE,,42.37940,-71.14850,Strawberry Hill
+Maisie,Terrier,,42.35910,-71.11150,Cambridgeport
+Noodle,Mixed Breed,,42.36490,-71.11060,Riverside
+Wolfie,Australian Shepherd,,42.39000,-71.11880,North Cambridge
+Masie Pearl,Mixed Breed,,42.38090,-71.13750,West Cambridge
+Auggie,Mixed Breed,,42.38520,-71.11900,Neighborhood Nine
+Fenway,Golden Retriever,,42.36930,-71.09460,Wellington-Harrington
+Peadar ,Jack Russell Terrier,,42.39750,-71.12860,North Cambridge
+Archie,Mixed Breed,,42.38370,-71.13290,Neighborhood Nine
+Maggie,Golden Retriever,,42.37310,-71.14110,West Cambridge
+Henny,Boxer,,42.38400,-71.12260,Neighborhood Nine
+WINNIE,POODLE,,42.39070,-71.12820,North Cambridge
+Taro,Jack Russell Terrier,,42.36970,-71.09810,Mid-Cambridge
+Hal,Havanese,,42.39220,-71.12040,North Cambridge
+Belinda,LABRADOODLE,,42.38580,-71.13990,Neighborhood Nine
+Luna,Standard Poodle,,42.37250,-71.13780,West Cambridge
+Bodacious Pritchard,Mixed Breed,,42.37860,-71.13760,West Cambridge
+Belle,Mixed Breed,,42.37900,-71.15090,Strawberry Hill
+Lulu,Australian Labadoodle,,42.36830,-71.10180,The Port
+Susy,Mixed Breed,,42.38660,-71.13230,Neighborhood Nine
