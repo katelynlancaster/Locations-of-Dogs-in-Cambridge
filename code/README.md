@@ -4,7 +4,6 @@
 Species Type Data and Computational Analysis of Dogs in Cambridge, MA.
 
 This data repository shows the locations and names of all the dogs in the neighborhoods of Cambridge, Massachusetts. 
-unordered list
 
 ---
 ## Possible Usage
