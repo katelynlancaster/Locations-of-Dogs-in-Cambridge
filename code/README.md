@@ -21,7 +21,7 @@ Here is a scatterplot that demonstrates the exact location of dogs living all ar
 
 In the visualization below, exact coordinates of all the registered dogs in the City of Cambridge web data base. The date appears to follow a relatively linear chart with only a few outliers. Each dot on the chart represents an individual dog. The trendline applied to the data shows that the dogs are all located within the coordinates of Cambridge, but that they tend to cluster in different neighborhoods.
 
-(![8Ggpy-exact-location-of-dogs-in-cambridge-ma (1)](https://github.com/katelynlancaster/Locations-of-Dogs-in-Cambridge/assets/167785371/87e28de7-8072-4c66-90e9-df18272b83b2)
+![8Ggpy-exact-location-of-dogs-in-cambridge-ma (1)](https://github.com/katelynlancaster/Locations-of-Dogs-in-Cambridge/assets/167785371/87e28de7-8072-4c66-90e9-df18272b83b2)
 
 ---
 ## Whats Next
