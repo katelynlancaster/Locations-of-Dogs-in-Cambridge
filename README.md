@@ -12,6 +12,7 @@ This data may be useful to those who want to examine current trends in dog names
 ---
 ## Acknowledgements
 This repository was created for the Final Project in Professor Steven Gotzler's English 105 class at UNC Chapel Hill during the spring 2024 semester. 
+
 This subset data was created through use of the *pandas package* in *Google Co-lab*. You can access this [here](https://colab.research.google.com/drive/1wlqt8W69bWM29mIcALyNisbuABiQpQP5?usp=sharing).
 
 The original data comes from the official *City of Cambridge* and can be viewed [here](https://data.cambridgema.gov/stories/s/Dogs-of-Cambridge-Data-Story/qjvj-bebc/).
