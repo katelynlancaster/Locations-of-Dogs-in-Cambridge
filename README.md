@@ -23,7 +23,7 @@ In the visualization below, exact coordinates of all the registered dogs in the 
 
 ![https://github.com/katelynlancaster/Locations-of-Dogs-in-Cambridge/blob/main/Visualization/Screenshot%202024-04-25%20220545.png](https://github.com/katelynlancaster/Locations-of-Dogs-in-Cambridge/blob/main/Visualization/Screenshot%202024-04-25%20220545.png)
 
-![
+To view a further visualization, you can navigate to the "Visualization" folder to see a Tableau work book data set. This data set creates categories for every dog breed in Cambridge, Ma and then lists every recorded dog name that falls under that specific breed. For another way to access it, click [here](
 
 ---
 ## Whats Next
