@@ -7,19 +7,22 @@ This data repository shows the locations and names of all the dogs in the neighb
 
 ---
 ## Possible Usage
-This data may be useful to those who want to examine current trends in dog names and dog breeds in different areas throughout the city of Cambridge.
+This data may be useful to those who want to examine current trends in dog names and dog breeds in different areas throughout the city of Cambridge. This data can also be used to see which neighborhood in Cambridge contains the most dogs overall.
 
 ---
 ## Acknowledgements
+This repository was created for the Final Project in Professor Steven Gotzler's English 105 class at UNC Chapel Hill during the spring 2024 semester. 
 This subset data was created through use of the *pandas package* in *Google Co-lab*. You can access this [here](https://colab.research.google.com/drive/1wlqt8W69bWM29mIcALyNisbuABiQpQP5?usp=sharing).
 
 The original data comes from the official *City of Cambridge* and can be viewed [here](https://data.cambridgema.gov/stories/s/Dogs-of-Cambridge-Data-Story/qjvj-bebc/).
 
 ---
 ## Data Visualization
-Here is a scatterplot that demonstrates the exact location of dogs living all around Cambridge.
+Here is an image that demonstrates the amount of dogs living all around Cambridge.
 
-In the visualization below, you are able to see a visual representation of the amount of dogs in each neighborhood of Cambridge. The bigger squares correlate to neighborhoods with a larger dog population, and vice-versa.
+In the visualization below, you are able to see a visual representation of the amount of dogs in each neighborhood of Cambridge. The bigger squares correlate to neighborhoods with a larger dog population, and vice-versa. Additionally, the darekr the shade of blue that the sqaures are, the more densely populated that neighborhood is with dogs. For an example, you can tell that out of all of Cambridge, MA, the West Cambridge neighborhood has the most amount of dogs because it is the biggest square and is the darkest color of blue.
+
+This visualization was crate using a workbook in the data software *Tableau*.
 
 ![https://github.com/katelynlancaster/Locations-of-Dogs-in-Cambridge/blob/main/Visualization/Screenshot%202024-04-25%20220545.png](https://github.com/katelynlancaster/Locations-of-Dogs-in-Cambridge/blob/main/Visualization/Screenshot%202024-04-25%20220545.png)
 
