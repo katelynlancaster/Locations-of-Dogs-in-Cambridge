@@ -19,7 +19,7 @@ The original data comes from the official *City of Cambridge* and can be viewed 
 ## Data Visualization
 Here is a scatterplot that demonstrates the exact location of dogs living all around Cambridge.
 
-In the visualization below, exact coordinates of all the registered dogs in the City of Cambridge web data base. The date appears to follow a relatively linear chart with only a few outliers. Each dot on the chart represents an individual dog. The trendline applied to the data shows that the dogs are all located within the coordinates of Cambridge, but that they tend to cluster in different neighborhoods.
+In the visualization below, you are able to see a visual representation of the amount of dogs in each neighborhood of Cambridge. The bigger squares correlate to neighborhoods with a larger dog population, and vice-versa.
 
 ![https://github.com/katelynlancaster/Locations-of-Dogs-in-Cambridge/blob/main/Visualization/Screenshot%202024-04-25%20220545.png](https://github.com/katelynlancaster/Locations-of-Dogs-in-Cambridge/blob/main/Visualization/Screenshot%202024-04-25%20220545.png)
 
